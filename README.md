@@ -1,7 +1,7 @@
 # Jewellery-Poss-For-Code-Idea :wave:	
 - This system is done using the **C# and MySQL**(store procture) is used as the database.
 - It is a system developed to record the 
-- Accounts ,
+- Sales ,
 - Users ,
 - Inovices ,
 - Purchase ,
