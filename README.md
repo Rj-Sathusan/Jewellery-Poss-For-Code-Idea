@@ -3,6 +3,8 @@
 - It is a system developed to record the accounts and item details of a **Jeweller shop**
 - 
 - :point_down:	:point_down:	:point_down:	:point_down:	:point_down:	:point_down:	:point_down:	:point_down:	:point_down:	:point_down:	:point_down:	
+
+![My Image](sc1.jpg)
 [![Screenshot-2022-07-12-230522.png](https://i.postimg.cc/bwqhcPCB/Screenshot-2022-07-12-230522.png)](https://postimg.cc/tYvfWKH3)
 [![Screenshot-2022-07-12-230308.png](https://i.postimg.cc/Fzc4mHX2/Screenshot-2022-07-12-230308.png)](https://postimg.cc/H8pK9Hx2)
 [![Screenshot-2022-07-12-230337.png](https://i.postimg.cc/15hSBwpP/Screenshot-2022-07-12-230337.png)](https://postimg.cc/w3VnTtfb)
