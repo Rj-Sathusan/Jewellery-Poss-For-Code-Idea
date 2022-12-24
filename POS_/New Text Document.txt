@@ -1,0 +1,131 @@
+ tu.uname,
+
+
+ INNER JOIN login_details ld 
+    ON ld.shiftid=n.shiftid
+    INNER JOIN tbl_user tu
+    ON ld.userid=CONCAT(tu.brid,tu.id)
+
+
+
+
+
+
+
+
+
+CREATE DEFINER = 'root'@'localhost' // new produdcerdd 
+PROCEDURE admin_accountpos_royal.GetGroupDetailsFormBalanceSheet(IN gid int,IN asid int)
+BEGIN
+           
+  IF asid = 1 THEN
+   SELECT l1.des,FORMAT(IFNULL(SUM(t.debit - t.credit),0),2) AS total FROM masteraccounts m INNER JOIN ledgergroup l ON m.id=l.masteraccountid INNER JOIN ledgersubgroup l1 ON l.id=l1.ledgergroupid INNER JOIN transaction t ON l1.id=t.sgid WHERE l.id=gid  GROUP BY l1.id HAVING total!=0 ORDER BY l1.des ASC;        
+ELSE
+   SELECT l1.des,FORMAT(IFNULL(SUM(t.credit - t.debit),0),2) AS total FROM masteraccounts m INNER JOIN ledgergroup l ON m.id=l.masteraccountid INNER JOIN ledgersubgroup l1 ON l.id=l1.ledgergroupid INNER JOIN transaction t ON l1.id=t.sgid WHERE l.id=gid  GROUP BY l1.id HAVING total!=0 ORDER BY l1.des ASC;        
+END IF;
+END
+
+unhold
+unitype remove format,
+
+SELECT barcode,des,unittype,qty,FORMAT(rate,2),FORMAT(amount,2),diper,FORMAT(disc,2),FORMAT(nettotal,2),costprice,batchid,stockid,nc,sc,itemcode,FORMAT(iamount,2),FORMAT(ipamount,2) FROM holds_items WHERE holdid=inno ;
+UPDATE holds SET isrelease=1 WHERE id=inno ;
+
+//end unhold
+
+
+//hold
+producer holdsave
+INSERT INTO holds VALUES(NULL,cuname1,'0',amount1,DATE_FORMAT(createdate1,'%Y-%m-%d %h:%i:%s'),shiftid1,smid,sn);
+SELECT MAX(id) INTO holdno FROM holds WHERE branceid1=branceid1 and shiftid=shiftid1;
+
+//
+
+// hold itemsave
+INSERT holds_items VALUES(holdno,itemcode1,itdescrip,untype,qty1,unitprice,total,diper1,dico,nettotal,costprice,batchidn,sid,noc,spc,barco,itwamount,iwpercentage);
+
+hold_items
+new column
+barcode varchar,iamount decimal,ipamount decimal
+
+//
+
+
+
+
+
+
+rahmath new work
+// start work
+produce -----selectitemswithoutsave
+copy past quary
+
+   SELECT oder_items.itemcode,oder_items.batchid,tbl_item_master.description,
+   sum(oder_items.qty+oder_items.puqty+freeqty),oder_items.unitprice,stock.miprice,stock.discont,(stock.reprice-stock.discont),ROUND(sum((oder_items.qty+oder_items.puqty+oder_items.freeqty)*oder_items.unitprice),2),
+   ROUND(SUM((oder_items.qty+oder_items.puqty+oder_items.freeqty )*(stock.reprice-stock.discont)),2),oder_items.musize,  ROUND(sum((oder_items.qty+oder_items.puqty+oder_items.freeqty)*stock.miprice),2),item_batch.barcode,stock.miprice,oder_items.itemtype,item_batch.barcode
+   FROM  oder_items INNER JOIN  stock ON oder_items.stid=stock.id INNER JOIN item_batch ON stock.itemcode=item_batch.itemcode AND stock.batchid=item_batch.batchid INNER JOIN tbl_item_master ON item_batch.itemcode=tbl_item_master.itemcode  WHERE oder_items.orderno=inno GROUP BY oder_items.itemcode,oder_items.batchid ORDER BY oder_items.id ASC ;
+
+
+// end work
+
+
+
+
+
+
+
+
+
+getnotsaveinvoiceno
+remove id
+
+invoiceitemdelete
+AND CAST(AES_DECRYPT(qty,k) as DECIMAL(18,2))=qty1
+12729 -cost -130
+
+
+12 403 36.27   stock----12 403 166.27
+
+12 405  058.77 balance sheet
+        130
+
+database add parameter sid int
+
+
+ public void GetItemcode(TextBox txt,TextBox countitem)
+        {
+            DAT.DataAccessLayer dat = new DAT.DataAccessLayer();
+            dat.Open();
+
+            MySqlParameter[] param = new MySqlParameter[1];
+            param[0] = new MySqlParameter("@sid", MySqlDbType.Int32);
+            param[0].Value = _supid;
+
+            dt = dat.SelectData("GetItemcode", param);
+            dat.Close();
+            if (dt.Rows[0].ItemArray[0].ToString()!="")
+            {
+                
+                txt.Text = (Convert.ToDouble(dt.Rows[0].ItemArray[0].ToString()) + 1).ToString();
+
+                if (txt.Text.Length == 1) { txt.Text = "0000" + txt.Text; }
+                else if (txt.Text.Length == 2) { txt.Text = "000" + txt.Text; }
+                else if (txt.Text.Length == 3) { txt.Text = "00" + txt.Text; }
+                else if (txt.Text.Length == 4) { txt.Text = "0" + txt.Text; }
+                else if (txt.Text.Length == 5) { txt.Text = txt.Text; }
+                else { txt.Text = txt.Text; }
+            }
+            else
+            {
+                txt.Text = "00001";
+            }
+            countitem.Text = (Convert.ToDouble(dt.Rows[0].ItemArray[1].ToString()) + 1).ToString();
+
+            dat = null; dt = null;
+        }
+
+
+2020	January	1,906,249.50	1
+2020	February	1,417,746.50	2
+2020	March	1,219,784.56	3
+2020	April	114,155.00	4

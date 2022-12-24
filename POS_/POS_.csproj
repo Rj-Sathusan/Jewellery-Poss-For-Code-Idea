@@ -1,0 +1,576 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="12.0" DefaultTargets="Build" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <Import Project="$(MSBuildExtensionsPath)\$(MSBuildToolsVersion)\Microsoft.Common.props" Condition="Exists('$(MSBuildExtensionsPath)\$(MSBuildToolsVersion)\Microsoft.Common.props')" />
+  <PropertyGroup>
+    <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
+    <Platform Condition=" '$(Platform)' == '' ">AnyCPU</Platform>
+    <ProjectGuid>{58104F92-2552-4645-B3FD-97AA4ED33576}</ProjectGuid>
+    <OutputType>WinExe</OutputType>
+    <AppDesignerFolder>Properties</AppDesignerFolder>
+    <RootNamespace>POS_</RootNamespace>
+    <AssemblyName>POS_</AssemblyName>
+    <TargetFrameworkVersion>v4.8</TargetFrameworkVersion>
+    <FileAlignment>512</FileAlignment>
+    <IsWebBootstrapper>false</IsWebBootstrapper>
+    <PublishUrl>publish\</PublishUrl>
+    <Install>true</Install>
+    <InstallFrom>Disk</InstallFrom>
+    <UpdateEnabled>false</UpdateEnabled>
+    <UpdateMode>Foreground</UpdateMode>
+    <UpdateInterval>7</UpdateInterval>
+    <UpdateIntervalUnits>Days</UpdateIntervalUnits>
+    <UpdatePeriodically>false</UpdatePeriodically>
+    <UpdateRequired>false</UpdateRequired>
+    <MapFileExtensions>true</MapFileExtensions>
+    <ApplicationRevision>0</ApplicationRevision>
+    <ApplicationVersion>1.0.0.%2a</ApplicationVersion>
+    <UseApplicationTrust>false</UseApplicationTrust>
+    <BootstrapperEnabled>true</BootstrapperEnabled>
+    <TargetFrameworkProfile />
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Debug|AnyCPU' ">
+    <PlatformTarget>AnyCPU</PlatformTarget>
+    <DebugSymbols>true</DebugSymbols>
+    <DebugType>full</DebugType>
+    <Optimize>false</Optimize>
+    <OutputPath>bin\Debug\</OutputPath>
+    <DefineConstants>DEBUG;TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+    <Prefer32Bit>false</Prefer32Bit>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Release|AnyCPU' ">
+    <PlatformTarget>AnyCPU</PlatformTarget>
+    <DebugType>pdbonly</DebugType>
+    <Optimize>false</Optimize>
+    <OutputPath>bin\Release\</OutputPath>
+    <DefineConstants>DEBUG;TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+    <Prefer32Bit>false</Prefer32Bit>
+  </PropertyGroup>
+  <ItemGroup>
+    <Reference Include="Antlr3.Runtime">
+      <HintPath>..\..\..\Downloads\Compressed\mysql-for-visualstudio-1.2.8-noinstall\15.0v461\Antlr3.Runtime.dll</HintPath>
+    </Reference>
+    <Reference Include="Bunifu_UI_v1.5.3">
+      <HintPath>..\..\..\..\..\Program Files (x86)\Bunifu Technologies\Bunifu Framework Manager\Bunifu_UI_v1.5.3.dll</HintPath>
+    </Reference>
+    <Reference Include="Microsoft.Office.Interop.Access, Version=14.0.0.0, Culture=neutral, PublicKeyToken=71e9bce111e9429c, processorArchitecture=MSIL">
+      <EmbedInteropTypes>True</EmbedInteropTypes>
+    </Reference>
+    <Reference Include="Microsoft.Office.Interop.Excel, Version=14.0.0.0, Culture=neutral, PublicKeyToken=71e9bce111e9429c, processorArchitecture=MSIL">
+      <EmbedInteropTypes>True</EmbedInteropTypes>
+    </Reference>
+    <Reference Include="Microsoft.Office.Tools.Word, Version=10.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a, processorArchitecture=MSIL">
+      <EmbedInteropTypes>True</EmbedInteropTypes>
+    </Reference>
+    <Reference Include="Microsoft.ReportViewer.Common, Version=11.0.0.0, Culture=neutral, PublicKeyToken=89845dcd8080cc91" />
+    <Reference Include="Microsoft.ReportViewer.WinForms, Version=11.0.0.0, Culture=neutral, PublicKeyToken=89845dcd8080cc91, processorArchitecture=MSIL" />
+    <Reference Include="Microsoft.VisualBasic" />
+    <Reference Include="Microsoft.VisualBasic.PowerPacks.Vs, Version=10.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a, processorArchitecture=MSIL" />
+    <Reference Include="Mysql.Data">
+      <HintPath>..\..\..\..\..\Desktop\Mysql.Data.dll</HintPath>
+    </Reference>
+    <Reference Include="mysql.data.entity">
+      <HintPath>..\..\..\Downloads\Compressed\mysql-for-visualstudio-1.2.8-noinstall\15.0v461\mysql.data.entity.dll</HintPath>
+    </Reference>
+    <Reference Include="Neodynamic.SDK.Barcode">
+      <HintPath>..\..\..\Neodynamic.SDK.Barcode.dll</HintPath>
+    </Reference>
+    <Reference Include="SkinSoft.VisualStyler, Version=2.4.0.0, Culture=neutral, PublicKeyToken=0fda9f423e1d9830, processorArchitecture=MSIL" />
+    <Reference Include="System">
+      <Private>True</Private>
+    </Reference>
+    <Reference Include="System.Core">
+      <Private>True</Private>
+    </Reference>
+    <Reference Include="System.Management" />
+    <Reference Include="System.Web.Services" />
+    <Reference Include="System.Xml.Linq" />
+    <Reference Include="System.Data.DataSetExtensions">
+      <Private>True</Private>
+    </Reference>
+    <Reference Include="Microsoft.CSharp" />
+    <Reference Include="System.Data">
+      <Private>True</Private>
+    </Reference>
+    <Reference Include="System.Deployment" />
+    <Reference Include="System.Drawing" />
+    <Reference Include="System.Windows.Forms" />
+    <Reference Include="System.Xml" />
+  </ItemGroup>
+  <ItemGroup>
+    <Compile Include="BUSCLASS\Root.cs" />
+    <Compile Include="BUSS\additem.cs" />
+    <Compile Include="BUSS\bank.cs" />
+    <Compile Include="BUSS\Category.cs" />
+    <Compile Include="BUSS\Config.cs" />
+    <Compile Include="BUSS\customer.cs" />
+    <Compile Include="BUSS\dress.cs" />
+    <Compile Include="BUSS\FormOpenClass.cs" />
+    <Compile Include="BUSS\ITEM.cs" />
+    <Compile Include="BUSS\payment.cs" />
+    <Compile Include="BUSS\purchase.cs" />
+    <Compile Include="BUSS\purchase_summary.cs" />
+    <Compile Include="BUSS\sales.cs" />
+    <Compile Include="BUSS\sales_payment.cs" />
+    <Compile Include="BUSS\supplier.cs" />
+    <Compile Include="BUSS\user.cs" />
+    <Compile Include="Connection.cs" />
+    <Compile Include="DAT\DataAccessLayer.cs" />
+    <Compile Include="DAT\function.cs" />
+    <Compile Include="DAT\MessageType.cs" />
+    <Compile Include="DAT\NewDataAccessLayer.cs" />
+    <Compile Include="DAT\SystemReport.cs" />
+    <Compile Include="function_.cs" />
+    <Compile Include="Functions.cs" />
+    <Compile Include="Messages.cs" />
+    <Compile Include="PRE\BANK\BANK.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="PRE\BANK\BANK.Designer.cs">
+      <DependentUpon>BANK.cs</DependentUpon>
+    </Compile>
+    <Compile Include="PRE\Customer\CUSTOMER.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="PRE\Customer\CUSTOMER.Designer.cs">
+      <DependentUpon>CUSTOMER.cs</DependentUpon>
+    </Compile>
+    <Compile Include="PRE\Customer\frmListofRoute.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="PRE\Customer\frmListofRoute.designer.cs">
+      <DependentUpon>frmListofRoute.cs</DependentUpon>
+    </Compile>
+    <Compile Include="PRE\DRESS.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="PRE\DRESS.Designer.cs">
+      <DependentUpon>DRESS.cs</DependentUpon>
+    </Compile>
+    <Compile Include="PRE\Form1.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="PRE\Form1.designer.cs">
+      <DependentUpon>Form1.cs</DependentUpon>
+    </Compile>
+    <Compile Include="PRE\frmAdminLogin.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="PRE\frmAdminLogin.designer.cs">
+      <DependentUpon>frmAdminLogin.cs</DependentUpon>
+    </Compile>
+    <Compile Include="PRE\frmAllLogin.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="PRE\frmAllLogin.designer.cs">
+      <DependentUpon>frmAllLogin.cs</DependentUpon>
+    </Compile>
+    <Compile Include="PRE\frmNewDashBordold.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="PRE\frmNewDashBordold.designer.cs">
+      <DependentUpon>frmNewDashBordold.cs</DependentUpon>
+    </Compile>
+    <Compile Include="PRE\Customer\frmRoutAdd.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="PRE\Customer\frmRoutAdd.designer.cs">
+      <DependentUpon>frmRoutAdd.cs</DependentUpon>
+    </Compile>
+    <Compile Include="PRE\frmShiftLogin.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="PRE\frmShiftLogin.designer.cs">
+      <DependentUpon>frmShiftLogin.cs</DependentUpon>
+    </Compile>
+    <Compile Include="PRE\ITEM\ITEM.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="PRE\ITEM\ITEM.Designer.cs">
+      <DependentUpon>ITEM.cs</DependentUpon>
+    </Compile>
+    <Compile Include="PRE\NewCategory\frmAddCategory.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="PRE\NewCategory\frmListofCategory.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="PRE\NewCategory\frmListofCategory.designer.cs">
+      <DependentUpon>frmListofCategory.cs</DependentUpon>
+    </Compile>
+    <Compile Include="PRE\PAYMENT\PAYMENT.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="PRE\PAYMENT\PAYMENT.Designer.cs">
+      <DependentUpon>PAYMENT.cs</DependentUpon>
+    </Compile>
+    <Compile Include="PRE\PURCHASE\ADDITEM.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="PRE\PURCHASE\ADDITEM.designer.cs">
+      <DependentUpon>ADDITEM.cs</DependentUpon>
+    </Compile>
+    <Compile Include="PRE\PURCHASE\PURCHASE.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="PRE\PURCHASE\PURCHASE.Designer.cs">
+      <DependentUpon>PURCHASE.cs</DependentUpon>
+    </Compile>
+    <Compile Include="PRE\PURCHASE\PURCHASE_SUMMARY.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="PRE\PURCHASE\PURCHASE_SUMMARY.Designer.cs">
+      <DependentUpon>PURCHASE_SUMMARY.cs</DependentUpon>
+    </Compile>
+    <Compile Include="PRE\PURCHASE\View_purchase.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="PRE\PURCHASE\View_purchase.Designer.cs">
+      <DependentUpon>View_purchase.cs</DependentUpon>
+    </Compile>
+    <Compile Include="PRE\SALES\SALES.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="PRE\SALES\SALES.Designer.cs">
+      <DependentUpon>SALES.cs</DependentUpon>
+    </Compile>
+    <Compile Include="PRE\SALES\SalesPayments.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="PRE\SALES\SalesPayments.Designer.cs">
+      <DependentUpon>SalesPayments.cs</DependentUpon>
+    </Compile>
+    <Compile Include="PRE\SALES\ViewSales.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="PRE\SALES\ViewSales.Designer.cs">
+      <DependentUpon>ViewSales.cs</DependentUpon>
+    </Compile>
+    <Compile Include="PRE\SUPPLIER\SUPPLIER.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="PRE\SUPPLIER\SUPPLIER.Designer.cs">
+      <DependentUpon>SUPPLIER.cs</DependentUpon>
+    </Compile>
+    <Compile Include="PRE\USER\USER.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="PRE\USER\USER.Designer.cs">
+      <DependentUpon>USER.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Program.cs" />
+    <Compile Include="Properties\AssemblyInfo.cs" />
+    <EmbeddedResource Include="PRE\BANK\BANK.resx">
+      <DependentUpon>BANK.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="PRE\Customer\CUSTOMER.resx">
+      <DependentUpon>CUSTOMER.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="PRE\Customer\frmListofRoute.resx">
+      <DependentUpon>frmListofRoute.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="PRE\DRESS.resx">
+      <DependentUpon>DRESS.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="PRE\Form1.resx">
+      <DependentUpon>Form1.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="PRE\frmAdminLogin.resx">
+      <DependentUpon>frmAdminLogin.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="PRE\frmAllLogin.resx">
+      <DependentUpon>frmAllLogin.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="PRE\frmNewDashBordold.resx">
+      <DependentUpon>frmNewDashBordold.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="PRE\Customer\frmRoutAdd.resx">
+      <DependentUpon>frmRoutAdd.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="PRE\frmShiftLogin.resx">
+      <DependentUpon>frmShiftLogin.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="PRE\ITEM\ITEM.resx">
+      <DependentUpon>ITEM.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="PRE\NewCategory\frmAddCategory.resx">
+      <DependentUpon>frmAddCategory.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="PRE\NewCategory\frmListofCategory.resx">
+      <DependentUpon>frmListofCategory.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="PRE\PAYMENT\PAYMENT.resx">
+      <DependentUpon>PAYMENT.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="PRE\PURCHASE\ADDITEM.resx">
+      <DependentUpon>ADDITEM.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="PRE\PURCHASE\PURCHASE.resx">
+      <DependentUpon>PURCHASE.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="PRE\PURCHASE\PURCHASE_SUMMARY.resx">
+      <DependentUpon>PURCHASE_SUMMARY.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="PRE\PURCHASE\View_purchase.resx">
+      <DependentUpon>View_purchase.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="PRE\SALES\SALES.resx">
+      <DependentUpon>SALES.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="PRE\SALES\SalesPayments.resx">
+      <DependentUpon>SalesPayments.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="PRE\SALES\ViewSales.resx">
+      <DependentUpon>ViewSales.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="PRE\SUPPLIER\SUPPLIER.resx">
+      <DependentUpon>SUPPLIER.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="PRE\USER\USER.resx">
+      <DependentUpon>USER.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Properties\Resources.resx">
+      <Generator>ResXFileCodeGenerator</Generator>
+      <LastGenOutput>Resources.Designer.cs</LastGenOutput>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <Compile Include="Properties\Resources.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DependentUpon>Resources.resx</DependentUpon>
+      <DesignTime>True</DesignTime>
+    </Compile>
+    <None Include="packages.config" />
+    <None Include="Properties\DataSources\Connection.datasource" />
+    <None Include="Properties\DataSources\Form1.datasource" />
+    <None Include="Properties\DataSources\frmAddCatergory.datasource" />
+    <None Include="Properties\DataSources\frmAddColor.datasource" />
+    <None Include="Properties\DataSources\frmAdminLogin.datasource" />
+    <None Include="Properties\DataSources\frmAllLogin.datasource" />
+    <None Include="Properties\DataSources\frmBatchItemRegistor.datasource" />
+    <None Include="Properties\DataSources\frmBrand.datasource" />
+    <None Include="Properties\DataSources\frmCostPriceUpdate.datasource" />
+    <None Include="Properties\DataSources\frmCustomer.datasource" />
+    <None Include="Properties\DataSources\frmearchSize.datasource" />
+    <None Include="Properties\DataSources\frmHelp.datasource" />
+    <None Include="Properties\DataSources\frmItemDetailsEdit.datasource" />
+    <None Include="Properties\DataSources\frmItemMaster.datasource" />
+    <None Include="Properties\DataSources\frmItemNewBatch.datasource" />
+    <None Include="Properties\DataSources\frmItemSearch.datasource" />
+    <None Include="Properties\DataSources\frmItemSearchForBatchItemRegistor.datasource" />
+    <None Include="Properties\DataSources\frmItemSearchForPurchase.datasource" />
+    <None Include="Properties\DataSources\frmItemSearchForStockAdjustment.datasource" />
+    <None Include="Properties\DataSources\frmNewDiscountAdd.datasource" />
+    <None Include="Properties\DataSources\frmOldBillPayment.datasource" />
+    <None Include="Properties\DataSources\frmRefund.datasource" />
+    <None Include="Properties\DataSources\frmSaleForm.datasource" />
+    <None Include="Properties\DataSources\frmSalePriceAndMinimuSalePriceUpdate.datasource" />
+    <None Include="Properties\DataSources\frmSearchBranch.datasource" />
+    <None Include="Properties\DataSources\frmSearchBrand.datasource" />
+    <None Include="Properties\DataSources\frmSearchCategory.datasource" />
+    <None Include="Properties\DataSources\frmSearchColor.datasource" />
+    <None Include="Properties\DataSources\frmSearchCustomer.datasource" />
+    <None Include="Properties\DataSources\frmSearchSubCategory.datasource" />
+    <None Include="Properties\DataSources\frmSearchUnitType.datasource" />
+    <None Include="Properties\DataSources\frmSerachSupplier.datasource" />
+    <None Include="Properties\DataSources\frmShiftLogin.datasource" />
+    <None Include="Properties\DataSources\frmSize.datasource" />
+    <None Include="Properties\DataSources\frmStockAdjustment.datasource" />
+    <None Include="Properties\DataSources\frmSubCategory.datasource" />
+    <None Include="Properties\DataSources\frmSupplier.datasource" />
+    <None Include="Properties\DataSources\frmThikness.datasource" />
+    <None Include="Properties\DataSources\frmThiknessSearch.datasource" />
+    <None Include="Properties\DataSources\frmUnitType.datasource" />
+    <None Include="Properties\DataSources\frmusers.datasource" />
+    <None Include="Properties\DataSources\function.datasource" />
+    <None Include="Properties\DataSources\Functions.datasource" />
+    <None Include="Properties\DataSources\function_.datasource" />
+    <None Include="Properties\DataSources\Messages.datasource" />
+    <None Include="Properties\DataSources\MySql.Data.MySqlClient.BaseTableCache.datasource" />
+    <None Include="Properties\DataSources\MySql.Data.MySqlClient.CustomInstaller.datasource" />
+    <None Include="Properties\DataSources\MySql.Data.MySqlClient.MySqlBulkLoader.datasource" />
+    <None Include="Properties\DataSources\MySql.Data.MySqlClient.MySqlClientFactory.datasource" />
+    <None Include="Properties\DataSources\MySql.Data.MySqlClient.MySqlCommand.datasource" />
+    <None Include="Properties\DataSources\MySql.Data.MySqlClient.MySqlCommandBuilder.datasource" />
+    <None Include="Properties\DataSources\MySql.Data.MySqlClient.MySqlConnection.datasource" />
+    <None Include="Properties\DataSources\MySql.Data.MySqlClient.MySqlConnectionStringBuilder.datasource" />
+    <None Include="Properties\DataSources\MySql.Data.MySqlClient.MySqlDataAdapter.datasource" />
+    <None Include="Properties\DataSources\MySql.Data.MySqlClient.MySqlDataReader.datasource" />
+    <None Include="Properties\DataSources\MySql.Data.MySqlClient.MySqlError.datasource" />
+    <None Include="Properties\DataSources\MySql.Data.MySqlClient.MySqlException.datasource" />
+    <None Include="Properties\DataSources\MySql.Data.MySqlClient.MySqlHelper.datasource" />
+    <None Include="Properties\DataSources\MySql.Data.MySqlClient.MySqlInfoMessageEventArgs.datasource" />
+    <None Include="Properties\DataSources\MySql.Data.MySqlClient.MySqlInfoMessageEventHandler.datasource" />
+    <None Include="Properties\DataSources\MySql.Data.MySqlClient.MySqlParameter.datasource" />
+    <None Include="Properties\DataSources\MySql.Data.MySqlClient.MySqlParameterCollection.datasource" />
+    <None Include="Properties\DataSources\MySql.Data.MySqlClient.MySqlRowUpdatedEventArgs.datasource" />
+    <None Include="Properties\DataSources\MySql.Data.MySqlClient.MySqlRowUpdatedEventHandler.datasource" />
+    <None Include="Properties\DataSources\MySql.Data.MySqlClient.MySqlRowUpdatingEventArgs.datasource" />
+    <None Include="Properties\DataSources\MySql.Data.MySqlClient.MySqlRowUpdatingEventHandler.datasource" />
+    <None Include="Properties\DataSources\MySql.Data.MySqlClient.MySqlScript.datasource" />
+    <None Include="Properties\DataSources\MySql.Data.MySqlClient.MySqlScriptErrorEventArgs.datasource" />
+    <None Include="Properties\DataSources\MySql.Data.MySqlClient.MySqlScriptErrorEventHandler.datasource" />
+    <None Include="Properties\DataSources\MySql.Data.MySqlClient.MySqlScriptEventArgs.datasource" />
+    <None Include="Properties\DataSources\MySql.Data.MySqlClient.MySqlStatementExecutedEventHandler.datasource" />
+    <None Include="Properties\DataSources\MySql.Data.MySqlClient.MySqlTrace.datasource" />
+    <None Include="Properties\DataSources\MySql.Data.MySqlClient.MySqlTransaction.datasource" />
+    <None Include="Properties\DataSources\MySql.Data.MySqlClient.Properties.Resources.datasource" />
+    <None Include="Properties\DataSources\MySql.Data.MySqlClient.SecBuffer.datasource" />
+    <None Include="Properties\DataSources\MySql.Data.MySqlClient.SecHandle.datasource" />
+    <None Include="Properties\DataSources\MySql.Data.MySqlClient.SecPkgContext_Sizes.datasource" />
+    <None Include="Properties\DataSources\MySql.Data.MySqlClient.SECURITY_HANDLE.datasource" />
+    <None Include="Properties\DataSources\MySql.Data.MySqlClient.SECURITY_INTEGER.datasource" />
+    <None Include="Properties\DataSources\MySql.Data.Types.MySqlConversionException.datasource" />
+    <None Include="Properties\DataSources\MySql.Data.Types.MySqlDateTime.datasource" />
+    <None Include="Properties\DataSources\MySql.Data.Types.MySqlDecimal.datasource" />
+    <None Include="Properties\DataSources\POS_.DAT.DataAccessLayer.datasource" />
+    <None Include="Properties\DataSources\Program.datasource" />
+    <None Include="Properties\DataSources\ReportCheckCustomerDetails.datasource" />
+    <None Include="Properties\DataSources\SystemReport.datasource" />
+    <None Include="Properties\DataSources\SystemReport1.datasource" />
+    <None Include="Properties\Settings.settings">
+      <Generator>SettingsSingleFileGenerator</Generator>
+      <LastGenOutput>Settings.Designer.cs</LastGenOutput>
+    </None>
+    <Compile Include="Properties\Settings.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DependentUpon>Settings.settings</DependentUpon>
+      <DesignTimeSharedInput>True</DesignTimeSharedInput>
+    </Compile>
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="App.config">
+      <SubType>Designer</SubType>
+    </None>
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\images %282%29.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <BootstrapperPackage Include=".NETFramework,Version=v4.5">
+      <Visible>False</Visible>
+      <ProductName>Microsoft .NET Framework 4.5 %28x86 and x64%29</ProductName>
+      <Install>true</Install>
+    </BootstrapperPackage>
+    <BootstrapperPackage Include="Microsoft.Net.Client.3.5">
+      <Visible>False</Visible>
+      <ProductName>.NET Framework 3.5 SP1 Client Profile</ProductName>
+      <Install>false</Install>
+    </BootstrapperPackage>
+    <BootstrapperPackage Include="Microsoft.Net.Framework.3.5.SP1">
+      <Visible>False</Visible>
+      <ProductName>.NET Framework 3.5 SP1</ProductName>
+      <Install>false</Install>
+    </BootstrapperPackage>
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\log-out.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\large.bmp" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\re printd.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\7440.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\219778364-nice-backgrounds.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\holdd.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\unholdD.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\credit payD.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\returnD.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Invoice detaild.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\discountd.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\re printd1.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\log-outd.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Helpd.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\exchanged.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\ledgerd.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\creditd.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\purchased.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\219778364-nice-backgrounds1.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Image1.bmp" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\iojoij.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\cashier.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\download %284%29.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\i.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\newbutton.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <WCFMetadata Include="Service References\" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\thumbnail.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\logoprint.bmp" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\for bill.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\logo MPCS.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\logo MPCS.gif" />
+  </ItemGroup>
+  <ItemGroup />
+  <ItemGroup>
+    <None Include="Resources\019 Malibu Beach.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\1.jpg" />
+  </ItemGroup>
+  <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
+  <!-- To modify your build process, add your task inside one of the targets below and uncomment it. 
+       Other similar extension points exist, see Microsoft.Common.targets.
+  <Target Name="BeforeBuild">
+  </Target>
+  <Target Name="AfterBuild">
+  </Target>
+  -->
+</Project>

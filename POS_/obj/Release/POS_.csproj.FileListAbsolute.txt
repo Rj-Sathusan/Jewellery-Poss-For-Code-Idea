@@ -1,0 +1,76 @@
+C:\Users\Rj_Sathusan\Downloads\Ming New System\POS_\bin\Release\POS_.exe.config
+C:\Users\Rj_Sathusan\Downloads\Ming New System\POS_\obj\Release\POS_.exe
+C:\Users\Rj_Sathusan\Downloads\Ming New System\POS_\obj\Release\POS_.pdb
+C:\Users\Rj_Sathusan\Downloads\Ming New System\POS_\bin\Release\POS_.exe
+C:\Users\Rj_Sathusan\Downloads\Ming New System\POS_\bin\Release\POS_.pdb
+C:\Users\Rj_Sathusan\Downloads\Ming New System\POS_\bin\Release\mscorlib.dll
+C:\Users\Rj_Sathusan\Downloads\Ming New System\POS_\bin\Release\System.Data.DataSetExtensions.dll
+C:\Users\Rj_Sathusan\Downloads\Ming New System\POS_\bin\Release\System.Data.dll
+C:\Users\Rj_Sathusan\Downloads\Ming New System\POS_\bin\Release\System.dll
+C:\Users\Rj_Sathusan\Downloads\Ming New System\POS_\bin\Release\normidna.nlp
+C:\Users\Rj_Sathusan\Downloads\Ming New System\POS_\bin\Release\normnfc.nlp
+C:\Users\Rj_Sathusan\Downloads\Ming New System\POS_\bin\Release\normnfd.nlp
+C:\Users\Rj_Sathusan\Downloads\Ming New System\POS_\bin\Release\normnfkc.nlp
+C:\Users\Rj_Sathusan\Downloads\Ming New System\POS_\bin\Release\normnfkd.nlp
+C:\Users\Rj_Sathusan\Downloads\Ming New System\POS_\obj\Release\POS_.csprojResolveAssemblyReference.cache
+C:\Users\Rj_Sathusan\Downloads\Ming New System\POS_\obj\Release\POS_.PRE.BANK.BANK.resources
+C:\Users\Rj_Sathusan\Downloads\Ming New System\POS_\obj\Release\POS_.PRE.Customer.CUSTOMER.resources
+C:\Users\Rj_Sathusan\Downloads\Ming New System\POS_\obj\Release\POS_.PRE.Customer.frmListofRoute.resources
+C:\Users\Rj_Sathusan\Downloads\Ming New System\POS_\obj\Release\POS_.Form1.resources
+C:\Users\Rj_Sathusan\Downloads\Ming New System\POS_\obj\Release\POS_.frmAdminLogin.resources
+C:\Users\Rj_Sathusan\Downloads\Ming New System\POS_\obj\Release\POS_.frmAllLogin.resources
+C:\Users\Rj_Sathusan\Downloads\Ming New System\POS_\obj\Release\POS_.PRE.frmNewDashBordold.resources
+C:\Users\Rj_Sathusan\Downloads\Ming New System\POS_\obj\Release\POS_.PRE.Customer.frmRoutAdd.resources
+C:\Users\Rj_Sathusan\Downloads\Ming New System\POS_\obj\Release\POS_.frmShiftLogin.resources
+C:\Users\Rj_Sathusan\Downloads\Ming New System\POS_\obj\Release\POS_.PRE.ITEM.ITEM.resources
+C:\Users\Rj_Sathusan\Downloads\Ming New System\POS_\obj\Release\POS_.PRE.NewCategory.frmAddCategory.resources
+C:\Users\Rj_Sathusan\Downloads\Ming New System\POS_\obj\Release\POS_.PRE.NewCategory.frmListofCategory.resources
+C:\Users\Rj_Sathusan\Downloads\Ming New System\POS_\obj\Release\POS_.PRE.PAYMENT.PAYMENT.resources
+C:\Users\Rj_Sathusan\Downloads\Ming New System\POS_\obj\Release\POS_.PRE.PURCHASE.ADDITEM.resources
+C:\Users\Rj_Sathusan\Downloads\Ming New System\POS_\obj\Release\POS_.PRE.PURCHASE.PURCHASE.resources
+C:\Users\Rj_Sathusan\Downloads\Ming New System\POS_\obj\Release\POS_.PRE.PURCHASE.PURCHASE_SUMMARY.resources
+C:\Users\Rj_Sathusan\Downloads\Ming New System\POS_\obj\Release\POS_.PRE.SALES.SALES.resources
+C:\Users\Rj_Sathusan\Downloads\Ming New System\POS_\obj\Release\POS_.PRE.SALES.SalesPayments.resources
+C:\Users\Rj_Sathusan\Downloads\Ming New System\POS_\obj\Release\POS_.PRE.SALES.ViewSales.resources
+C:\Users\Rj_Sathusan\Downloads\Ming New System\POS_\obj\Release\POS_.PRE.SUPPLIER.SUPPLIER.resources
+C:\Users\Rj_Sathusan\Downloads\Ming New System\POS_\obj\Release\POS_.PRE.USER.USER.resources
+C:\Users\Rj_Sathusan\Downloads\Ming New System\POS_\obj\Release\POS_.Properties.Resources.resources
+C:\Users\Rj_Sathusan\Downloads\Ming New System\POS_\obj\Release\POS_.csproj.GenerateResource.Cache
+C:\Users\Rj_Sathusan\Downloads\Ming New System\POS_\obj\Release\POS_.PRE.PURCHASE.View_purchase.resources
+C:\Users\Rj_Sathusan\Downloads\Ming New System\Ming New System\POS_\bin\Release\POS_.exe.config
+C:\Users\Rj_Sathusan\Downloads\Ming New System\Ming New System\POS_\bin\Release\POS_.exe
+C:\Users\Rj_Sathusan\Downloads\Ming New System\Ming New System\POS_\bin\Release\POS_.pdb
+C:\Users\Rj_Sathusan\Downloads\Ming New System\Ming New System\POS_\bin\Release\System.Data.DataSetExtensions.dll
+C:\Users\Rj_Sathusan\Downloads\Ming New System\Ming New System\POS_\bin\Release\System.Data.dll
+C:\Users\Rj_Sathusan\Downloads\Ming New System\Ming New System\POS_\bin\Release\System.dll
+C:\Users\Rj_Sathusan\Downloads\Ming New System\Ming New System\POS_\obj\Release\POS_.csproj.AssemblyReference.cache
+C:\Users\Rj_Sathusan\Downloads\Ming New System\Ming New System\POS_\obj\Release\POS_.csproj.SuggestedBindingRedirects.cache
+C:\Users\Rj_Sathusan\Downloads\Ming New System\Ming New System\POS_\obj\Release\POS_.PRE.BANK.BANK.resources
+C:\Users\Rj_Sathusan\Downloads\Ming New System\Ming New System\POS_\obj\Release\POS_.PRE.Customer.CUSTOMER.resources
+C:\Users\Rj_Sathusan\Downloads\Ming New System\Ming New System\POS_\obj\Release\POS_.PRE.Customer.frmListofRoute.resources
+C:\Users\Rj_Sathusan\Downloads\Ming New System\Ming New System\POS_\obj\Release\POS_.PRE.DRESS.resources
+C:\Users\Rj_Sathusan\Downloads\Ming New System\Ming New System\POS_\obj\Release\POS_.Form1.resources
+C:\Users\Rj_Sathusan\Downloads\Ming New System\Ming New System\POS_\obj\Release\POS_.frmAdminLogin.resources
+C:\Users\Rj_Sathusan\Downloads\Ming New System\Ming New System\POS_\obj\Release\POS_.frmAllLogin.resources
+C:\Users\Rj_Sathusan\Downloads\Ming New System\Ming New System\POS_\obj\Release\POS_.PRE.frmNewDashBordold.resources
+C:\Users\Rj_Sathusan\Downloads\Ming New System\Ming New System\POS_\obj\Release\POS_.PRE.Customer.frmRoutAdd.resources
+C:\Users\Rj_Sathusan\Downloads\Ming New System\Ming New System\POS_\obj\Release\POS_.frmShiftLogin.resources
+C:\Users\Rj_Sathusan\Downloads\Ming New System\Ming New System\POS_\obj\Release\POS_.PRE.ITEM.ITEM.resources
+C:\Users\Rj_Sathusan\Downloads\Ming New System\Ming New System\POS_\obj\Release\POS_.PRE.NewCategory.frmAddCategory.resources
+C:\Users\Rj_Sathusan\Downloads\Ming New System\Ming New System\POS_\obj\Release\POS_.PRE.NewCategory.frmListofCategory.resources
+C:\Users\Rj_Sathusan\Downloads\Ming New System\Ming New System\POS_\obj\Release\POS_.PRE.PAYMENT.PAYMENT.resources
+C:\Users\Rj_Sathusan\Downloads\Ming New System\Ming New System\POS_\obj\Release\POS_.PRE.PURCHASE.ADDITEM.resources
+C:\Users\Rj_Sathusan\Downloads\Ming New System\Ming New System\POS_\obj\Release\POS_.PRE.PURCHASE.PURCHASE.resources
+C:\Users\Rj_Sathusan\Downloads\Ming New System\Ming New System\POS_\obj\Release\POS_.PRE.PURCHASE.PURCHASE_SUMMARY.resources
+C:\Users\Rj_Sathusan\Downloads\Ming New System\Ming New System\POS_\obj\Release\POS_.PRE.PURCHASE.View_purchase.resources
+C:\Users\Rj_Sathusan\Downloads\Ming New System\Ming New System\POS_\obj\Release\POS_.PRE.SALES.SALES.resources
+C:\Users\Rj_Sathusan\Downloads\Ming New System\Ming New System\POS_\obj\Release\POS_.PRE.SALES.SalesPayments.resources
+C:\Users\Rj_Sathusan\Downloads\Ming New System\Ming New System\POS_\obj\Release\POS_.PRE.SALES.ViewSales.resources
+C:\Users\Rj_Sathusan\Downloads\Ming New System\Ming New System\POS_\obj\Release\POS_.PRE.SUPPLIER.SUPPLIER.resources
+C:\Users\Rj_Sathusan\Downloads\Ming New System\Ming New System\POS_\obj\Release\POS_.PRE.USER.USER.resources
+C:\Users\Rj_Sathusan\Downloads\Ming New System\Ming New System\POS_\obj\Release\POS_.Properties.Resources.resources
+C:\Users\Rj_Sathusan\Downloads\Ming New System\Ming New System\POS_\obj\Release\POS_.csproj.GenerateResource.cache
+C:\Users\Rj_Sathusan\Downloads\Ming New System\Ming New System\POS_\obj\Release\POS_.csproj.CoreCompileInputs.cache
+C:\Users\Rj_Sathusan\Downloads\Ming New System\Ming New System\POS_\obj\Release\POS_.csproj.CopyComplete
+C:\Users\Rj_Sathusan\Downloads\Ming New System\Ming New System\POS_\obj\Release\POS_.exe
+C:\Users\Rj_Sathusan\Downloads\Ming New System\Ming New System\POS_\obj\Release\POS_.pdb

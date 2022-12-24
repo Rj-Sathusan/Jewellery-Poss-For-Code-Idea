@@ -1,0 +1,642 @@
+C:\Users\RISWAN\Desktop\POS_\POS_\bin\Debug\POS_.exe.config
+C:\Users\RISWAN\Desktop\POS_\POS_\obj\Debug\POS_.exe
+C:\Users\RISWAN\Desktop\POS_\POS_\obj\Debug\POS_.pdb
+C:\Users\RISWAN\Desktop\POS_\POS_\bin\Debug\POS_.exe
+C:\Users\RISWAN\Desktop\POS_\POS_\bin\Debug\POS_.pdb
+C:\Users\RISWAN\Desktop\POS_\POS_\bin\Debug\Antlr3.Runtime.dll
+C:\Users\RISWAN\Desktop\POS_\POS_\bin\Debug\Bunifu_UI_v1.5.3.dll
+C:\Users\RISWAN\Desktop\POS_\POS_\bin\Debug\mysql.data.entity.dll
+C:\Users\RISWAN\Desktop\POS_\POS_\bin\Debug\SkinSoft.VisualStyler.dll
+C:\Users\RISWAN\Desktop\POS_\POS_\bin\Debug\SkinSoft.VisualStyler.xml
+C:\Users\RISWAN\Desktop\POS_\POS_\obj\Debug\POS_.frmSearchBranch.resources
+C:\Users\RISWAN\Desktop\POS_\POS_\obj\Debug\POS_.frmAdminLogin.resources
+C:\Users\RISWAN\Desktop\POS_\POS_\obj\Debug\POS_.frmAllLogin.resources
+C:\Users\RISWAN\Desktop\POS_\POS_\obj\Debug\POS_.PRE.frmChequeReturnEdit.resources
+C:\Users\RISWAN\Desktop\POS_\POS_\obj\Debug\POS_.PRE.frmChequeReturn.resources
+C:\Users\RISWAN\Desktop\POS_\POS_\obj\Debug\POS_.Form1.resources
+C:\Users\RISWAN\Desktop\POS_\POS_\obj\Debug\POS_.PRE.frmNewItemSearch.resources
+C:\Users\RISWAN\Desktop\POS_\POS_\obj\Debug\POS_.PRE.frmOutGoinLoan.resources
+C:\Users\RISWAN\Desktop\POS_\POS_\obj\Debug\POS_.PRE.frmOverPaymentDisplay.resources
+C:\Users\RISWAN\Desktop\POS_\POS_\obj\Debug\POS_.PRE.frmOverPaymetRecovery.resources
+C:\Users\RISWAN\Desktop\POS_\POS_\obj\Debug\POS_.frmShiftLogin.resources
+C:\Users\RISWAN\Desktop\POS_\POS_\obj\Debug\POS_.frmStockAdjustment.resources
+C:\Users\RISWAN\Desktop\POS_\POS_\obj\Debug\POS_.frmItemSearchForStockAdjustment.resources
+C:\Users\RISWAN\Desktop\POS_\POS_\obj\Debug\POS_.frmSalePriceAndMinimuSalePriceUpdate.resources
+C:\Users\RISWAN\Desktop\POS_\POS_\obj\Debug\POS_.frmCostPriceUpdate.resources
+C:\Users\RISWAN\Desktop\POS_\POS_\obj\Debug\POS_.frmNewDiscountAdd.resources
+C:\Users\RISWAN\Desktop\POS_\POS_\obj\Debug\POS_.PRE.frmInvoicePrinting.resources
+C:\Users\RISWAN\Desktop\POS_\POS_\obj\Debug\POS_.frmItemSearchForBatchItemRegistor.resources
+C:\Users\RISWAN\Desktop\POS_\POS_\obj\Debug\POS_.frmBatchItemRegistor.resources
+C:\Users\RISWAN\Desktop\POS_\POS_\obj\Debug\POS_.frmOldBillPayment.resources
+C:\Users\RISWAN\Desktop\POS_\POS_\obj\Debug\POS_.frmRefund.resources
+C:\Users\RISWAN\Desktop\POS_\POS_\obj\Debug\POS_.frmSearchCustomer.resources
+C:\Users\RISWAN\Desktop\POS_\POS_\obj\Debug\POS_.PRE.frm.resources
+C:\Users\RISWAN\Desktop\POS_\POS_\obj\Debug\POS_.PRE.frmBranchBranchItemExchange.resources
+C:\Users\RISWAN\Desktop\POS_\POS_\obj\Debug\POS_.frmItemSearchForPurchase.resources
+C:\Users\RISWAN\Desktop\POS_\POS_\obj\Debug\POS_.frmItemDetailsEdit.resources
+C:\Users\RISWAN\Desktop\POS_\POS_\obj\Debug\POS_.frmItemNewBatch.resources
+C:\Users\RISWAN\Desktop\POS_\POS_\obj\Debug\POS_.frmItemSearch.resources
+C:\Users\RISWAN\Desktop\POS_\POS_\obj\Debug\POS_.PRE.frmPurchase.resources
+C:\Users\RISWAN\Desktop\POS_\POS_\obj\Debug\POS_.frmSaleForm.resources
+C:\Users\RISWAN\Desktop\POS_\POS_\obj\Debug\POS_.frmSerachSupplier.resources
+C:\Users\RISWAN\Desktop\POS_\POS_\obj\Debug\POS_.frmSearchSubCategory.resources
+C:\Users\RISWAN\Desktop\POS_\POS_\obj\Debug\POS_.frmSearchUnitType.resources
+C:\Users\RISWAN\Desktop\POS_\POS_\obj\Debug\POS_.frmSearchColor.resources
+C:\Users\RISWAN\Desktop\POS_\POS_\obj\Debug\POS_.frmearchSize.resources
+C:\Users\RISWAN\Desktop\POS_\POS_\obj\Debug\POS_.frmSearchBrand.resources
+C:\Users\RISWAN\Desktop\POS_\POS_\obj\Debug\POS_.frmCustomer.resources
+C:\Users\RISWAN\Desktop\POS_\POS_\obj\Debug\POS_.frmItemMaster.resources
+C:\Users\RISWAN\Desktop\POS_\POS_\obj\Debug\POS_.frmSearchCategory.resources
+C:\Users\RISWAN\Desktop\POS_\POS_\obj\Debug\POS_.frmSubCategory.resources
+C:\Users\RISWAN\Desktop\POS_\POS_\obj\Debug\POS_.frmSupplier.resources
+C:\Users\RISWAN\Desktop\POS_\POS_\obj\Debug\POS_.frmUnitType.resources
+C:\Users\RISWAN\Desktop\POS_\POS_\obj\Debug\POS_.frmBrand.resources
+C:\Users\RISWAN\Desktop\POS_\POS_\obj\Debug\POS_.PRE.frmNewDashBord.resources
+C:\Users\RISWAN\Desktop\POS_\POS_\obj\Debug\POS_.frmSize.resources
+C:\Users\RISWAN\Desktop\POS_\POS_\obj\Debug\POS_.frmAddColor.resources
+C:\Users\RISWAN\Desktop\POS_\POS_\obj\Debug\POS_.frmAddCatergory.resources
+C:\Users\RISWAN\Desktop\POS_\POS_\obj\Debug\POS_.frmusers.resources
+C:\Users\RISWAN\Desktop\POS_\POS_\obj\Debug\POS_.Properties.Resources.resources
+C:\Users\RISWAN\Desktop\POS_\POS_\obj\Debug\POS_.REP.ReportCustomerInvoiceDetails.resources
+C:\Users\RISWAN\Desktop\POS_\POS_\obj\Debug\POS_.ReportCheckCustomerDetails.resources
+C:\Users\RISWAN\Desktop\POS_\POS_\obj\Debug\POS_.REP.ReportCustomerCredit.resources
+C:\Users\RISWAN\Desktop\POS_\POS_\obj\Debug\POS_.REP.ReportCustomerLedger.resources
+C:\Users\RISWAN\Desktop\POS_\POS_\obj\Debug\POS_.REP.ReportInvoiceDetails.resources
+C:\Users\RISWAN\Desktop\POS_\POS_\obj\Debug\POS_.REP.ReportStockWithAmountItemDetails.resources
+C:\Users\RISWAN\Desktop\POS_\POS_\obj\Debug\POS_.REP.ReportStockWithAmount.resources
+C:\Users\RISWAN\Desktop\POS_\POS_\obj\Debug\POS_.REP.ReportItemFullDetails.resources
+C:\Users\RISWAN\Desktop\POS_\POS_\obj\Debug\POS_.REP.ReportsStockSummary.resources
+C:\Users\RISWAN\Desktop\POS_\POS_\obj\Debug\POS_.REP.ReportStockSummaryAllBranch.resources
+C:\Users\RISWAN\Desktop\POS_\POS_\obj\Debug\POS_.csproj.GenerateResource.Cache
+C:\Users\RISWAN\Desktop\POS_\POS_\obj\Debug\RdlCompile.cache
+C:\Users\RISWAN\Desktop\POS_\POS_\obj\Debug\RdlCompile.compiled
+C:\Users\RISWAN\Desktop\POS_\POS_\obj\Debug\POS_.REP.ReportPurchaseDetailsForBranch.resources
+C:\Users\RISWAN\Desktop\POS_\POS_\obj\Debug\POS_.REP.ReportSupplierPurchaseDetails.resources
+C:\Users\RISWAN\Desktop\POS_\POS_\obj\Debug\POS_.REP.ReportOrderDetails.resources
+C:\Users\RISWAN\Desktop\POS_\POS_\obj\Debug\POS_.frmHelp.resources
+C:\Users\RISWAN\Desktop\POS_\POS_\obj\Debug\POS_.REP.ReportInvoicePrint.resources
+C:\Users\RISWAN\Desktop\POS_\POS_\obj\Debug\POS_.csprojResolveAssemblyReference.cache
+C:\Users\HP\Desktop\JIHANS POS\POS_\POS_\obj\Debug\POS_.csprojResolveAssemblyReference.cache
+C:\Users\HP\Desktop\JIHANS POS\POS_\POS_\obj\Debug\POS_.frmBarcodePrint.resources
+C:\Users\HP\Desktop\JIHANS POS\POS_\POS_\obj\Debug\POS_.PRE.frmCardExpensesPercentage.resources
+C:\Users\HP\Desktop\JIHANS POS\POS_\POS_\obj\Debug\POS_.PRE.frmPointsPercentage.resources
+C:\Users\HP\Desktop\JIHANS POS\POS_\POS_\obj\Debug\POS_.PRE.frmReActiveLoyaltyCustomer.resources
+C:\Users\HP\Desktop\JIHANS POS\POS_\POS_\obj\Debug\POS_.PRE.frmDummyInvoicePayment.resources
+C:\Users\HP\Desktop\JIHANS POS\POS_\POS_\obj\Debug\POS_.PRE.frmLoyaltyCustomer.resources
+C:\Users\HP\Desktop\JIHANS POS\POS_\POS_\obj\Debug\POS_.frmVehicleDummyInvoice.resources
+C:\Users\HP\Desktop\JIHANS POS\POS_\POS_\obj\Debug\POS_.PRE.frmVehicleNewItemSearch.resources
+C:\Users\HP\Desktop\JIHANS POS\POS_\POS_\obj\Debug\POS_.PRE.frmChequeDetailsForDepositOrPurchasePayment.resources
+C:\Users\HP\Desktop\JIHANS POS\POS_\POS_\obj\Debug\POS_.PRE.frmBankCardPaymentExpenses.resources
+C:\Users\HP\Desktop\JIHANS POS\POS_\POS_\obj\Debug\POS_.PRE.frmBankExpenses.resources
+C:\Users\HP\Desktop\JIHANS POS\POS_\POS_\obj\Debug\POS_.PRE.frmMultifilPersionalChequeDetailsView.resources
+C:\Users\HP\Desktop\JIHANS POS\POS_\POS_\obj\Debug\POS_.PRE.frmPayment.resources
+C:\Users\HP\Desktop\JIHANS POS\POS_\POS_\obj\Debug\POS_.PRE.OwnChequeReturn.resources
+C:\Users\HP\Desktop\JIHANS POS\POS_\POS_\obj\Debug\POS_.PRE.frmGetChequePaidIDForInvoicePayment.resources
+C:\Users\HP\Desktop\JIHANS POS\POS_\POS_\obj\Debug\POS_.frmProfitCalculate.resources
+C:\Users\HP\Desktop\JIHANS POS\POS_\POS_\obj\Debug\POS_.PRE.frmSalarySheet.resources
+C:\Users\HP\Desktop\JIHANS POS\POS_\POS_\obj\Debug\POS_.frmSpendPayment.resources
+C:\Users\HP\Desktop\JIHANS POS\POS_\POS_\obj\Debug\POS_.frmNewReturnForm.resources
+C:\Users\HP\Desktop\JIHANS POS\POS_\POS_\obj\Debug\POS_.frmNewOldBillPayment.resources
+C:\Users\HP\Desktop\JIHANS POS\POS_\POS_\obj\Debug\POS_.PRE.frmEmployeSalary.resources
+C:\Users\HP\Desktop\JIHANS POS\POS_\POS_\obj\Debug\POS_.frmSearchEmploye.resources
+C:\Users\HP\Desktop\JIHANS POS\POS_\POS_\obj\Debug\POS_.PRE.frmEmployeAdvance.resources
+C:\Users\HP\Desktop\JIHANS POS\POS_\POS_\obj\Debug\POS_.frmShareStaff.resources
+C:\Users\HP\Desktop\JIHANS POS\POS_\POS_\obj\Debug\POS_.PRE.frmShareholderWhithdraw.resources
+C:\Users\HP\Desktop\JIHANS POS\POS_\POS_\obj\Debug\POS_.frmSearchShareholders.resources
+C:\Users\HP\Desktop\JIHANS POS\POS_\POS_\obj\Debug\POS_.PRE.frmShareholderDeposit.resources
+C:\Users\HP\Desktop\JIHANS POS\POS_\POS_\obj\Debug\POS_.frmShareholders.resources
+C:\Users\HP\Desktop\JIHANS POS\POS_\POS_\obj\Debug\POS_.PRE.frmBankWithdraw.resources
+C:\Users\HP\Desktop\JIHANS POS\POS_\POS_\obj\Debug\POS_.PRE.frmSearchAccountno.resources
+C:\Users\HP\Desktop\JIHANS POS\POS_\POS_\obj\Debug\POS_.PRE.frmBankAccountAdd.resources
+C:\Users\HP\Desktop\JIHANS POS\POS_\POS_\obj\Debug\POS_.PRE.frmBankDeposit.resources
+C:\Users\HP\Desktop\JIHANS POS\POS_\POS_\obj\Debug\POS_.frmSearchBankName.resources
+C:\Users\HP\Desktop\JIHANS POS\POS_\POS_\obj\Debug\POS_.frmBankNameAdd.resources
+C:\Users\HP\Desktop\JIHANS POS\POS_\POS_\obj\Debug\POS_.frmSearchExpensesCategory.resources
+C:\Users\HP\Desktop\JIHANS POS\POS_\POS_\obj\Debug\POS_.frmExpensesCategory.resources
+C:\Users\HP\Desktop\JIHANS POS\POS_\POS_\obj\Debug\POS_.PRE.frmPurchaseRet.resources
+C:\Users\HP\Desktop\JIHANS POS\POS_\POS_\obj\Debug\POS_.frmSpendAdd.resources
+C:\Users\HP\Desktop\JIHANS POS\POS_\POS_\obj\Debug\POS_.frmThiknessSearch.resources
+C:\Users\HP\Desktop\JIHANS POS\POS_\POS_\obj\Debug\POS_.frmThikness.resources
+C:\Users\HP\Desktop\JIHANS POS\POS_\POS_\obj\Debug\POS_.frmHelp.resources
+C:\Users\HP\Desktop\JIHANS POS\POS_\POS_\obj\Debug\POS_.PRE.frmPurchasePayment.resources
+C:\Users\HP\Desktop\JIHANS POS\POS_\POS_\obj\Debug\POS_.frmSearchBranch.resources
+C:\Users\HP\Desktop\JIHANS POS\POS_\POS_\obj\Debug\POS_.frmAdminLogin.resources
+C:\Users\HP\Desktop\JIHANS POS\POS_\POS_\obj\Debug\POS_.frmAllLogin.resources
+C:\Users\HP\Desktop\JIHANS POS\POS_\POS_\obj\Debug\POS_.PRE.frmChequeReturnEdit.resources
+C:\Users\HP\Desktop\JIHANS POS\POS_\POS_\obj\Debug\POS_.PRE.frmChequeReturn.resources
+C:\Users\HP\Desktop\JIHANS POS\POS_\POS_\obj\Debug\POS_.Form1.resources
+C:\Users\HP\Desktop\JIHANS POS\POS_\POS_\obj\Debug\POS_.PRE.frmNewItemSearch.resources
+C:\Users\HP\Desktop\JIHANS POS\POS_\POS_\obj\Debug\POS_.PRE.frmOutGoinLoan.resources
+C:\Users\HP\Desktop\JIHANS POS\POS_\POS_\obj\Debug\POS_.PRE.frmOverPaymentDisplay.resources
+C:\Users\HP\Desktop\JIHANS POS\POS_\POS_\obj\Debug\POS_.PRE.frmOverPaymetRecovery.resources
+C:\Users\HP\Desktop\JIHANS POS\POS_\POS_\obj\Debug\POS_.frmShiftLogin.resources
+C:\Users\HP\Desktop\JIHANS POS\POS_\POS_\obj\Debug\POS_.frmStockAdjustment.resources
+C:\Users\HP\Desktop\JIHANS POS\POS_\POS_\obj\Debug\POS_.frmItemSearchForStockAdjustment.resources
+C:\Users\HP\Desktop\JIHANS POS\POS_\POS_\obj\Debug\POS_.frmSalePriceAndMinimuSalePriceUpdate.resources
+C:\Users\HP\Desktop\JIHANS POS\POS_\POS_\obj\Debug\POS_.frmCostPriceUpdate.resources
+C:\Users\HP\Desktop\JIHANS POS\POS_\POS_\obj\Debug\POS_.frmNewDiscountAdd.resources
+C:\Users\HP\Desktop\JIHANS POS\POS_\POS_\obj\Debug\POS_.PRE.frmInvoicePrinting.resources
+C:\Users\HP\Desktop\JIHANS POS\POS_\POS_\obj\Debug\POS_.frmItemSearchForBatchItemRegistor.resources
+C:\Users\HP\Desktop\JIHANS POS\POS_\POS_\obj\Debug\POS_.frmBatchItemRegistor.resources
+C:\Users\HP\Desktop\JIHANS POS\POS_\POS_\obj\Debug\POS_.frmOldBillPayment.resources
+C:\Users\HP\Desktop\JIHANS POS\POS_\POS_\obj\Debug\POS_.frmRefund.resources
+C:\Users\HP\Desktop\JIHANS POS\POS_\POS_\obj\Debug\POS_.frmSearchCustomer.resources
+C:\Users\HP\Desktop\JIHANS POS\POS_\POS_\obj\Debug\POS_.PRE.frm.resources
+C:\Users\HP\Desktop\JIHANS POS\POS_\POS_\obj\Debug\POS_.PRE.frmBranchBranchItemExchange.resources
+C:\Users\HP\Desktop\JIHANS POS\POS_\POS_\obj\Debug\POS_.frmItemSearchForPurchase.resources
+C:\Users\HP\Desktop\JIHANS POS\POS_\POS_\obj\Debug\POS_.frmItemDetailsEdit.resources
+C:\Users\HP\Desktop\JIHANS POS\POS_\POS_\obj\Debug\POS_.frmItemNewBatch.resources
+C:\Users\HP\Desktop\JIHANS POS\POS_\POS_\obj\Debug\POS_.frmItemSearch.resources
+C:\Users\HP\Desktop\JIHANS POS\POS_\POS_\obj\Debug\POS_.PRE.frmPurchase.resources
+C:\Users\HP\Desktop\JIHANS POS\POS_\POS_\obj\Debug\POS_.frmSaleForm.resources
+C:\Users\HP\Desktop\JIHANS POS\POS_\POS_\obj\Debug\POS_.frmSerachSupplier.resources
+C:\Users\HP\Desktop\JIHANS POS\POS_\POS_\obj\Debug\POS_.frmSearchSubCategory.resources
+C:\Users\HP\Desktop\JIHANS POS\POS_\POS_\obj\Debug\POS_.frmSearchUnitType.resources
+C:\Users\HP\Desktop\JIHANS POS\POS_\POS_\obj\Debug\POS_.frmSearchColor.resources
+C:\Users\HP\Desktop\JIHANS POS\POS_\POS_\obj\Debug\POS_.frmearchSize.resources
+C:\Users\HP\Desktop\JIHANS POS\POS_\POS_\obj\Debug\POS_.frmSearchBrand.resources
+C:\Users\HP\Desktop\JIHANS POS\POS_\POS_\obj\Debug\POS_.frmCustomer.resources
+C:\Users\HP\Desktop\JIHANS POS\POS_\POS_\obj\Debug\POS_.frmItemMaster.resources
+C:\Users\HP\Desktop\JIHANS POS\POS_\POS_\obj\Debug\POS_.frmSearchCategory.resources
+C:\Users\HP\Desktop\JIHANS POS\POS_\POS_\obj\Debug\POS_.frmSubCategory.resources
+C:\Users\HP\Desktop\JIHANS POS\POS_\POS_\obj\Debug\POS_.frmSupplier.resources
+C:\Users\HP\Desktop\JIHANS POS\POS_\POS_\obj\Debug\POS_.frmUnitType.resources
+C:\Users\HP\Desktop\JIHANS POS\POS_\POS_\obj\Debug\POS_.frmBrand.resources
+C:\Users\HP\Desktop\JIHANS POS\POS_\POS_\obj\Debug\POS_.PRE.frmNewDashBord.resources
+C:\Users\HP\Desktop\JIHANS POS\POS_\POS_\obj\Debug\POS_.frmSize.resources
+C:\Users\HP\Desktop\JIHANS POS\POS_\POS_\obj\Debug\POS_.frmAddColor.resources
+C:\Users\HP\Desktop\JIHANS POS\POS_\POS_\obj\Debug\POS_.frmAddCatergory.resources
+C:\Users\HP\Desktop\JIHANS POS\POS_\POS_\obj\Debug\POS_.frmusers.resources
+C:\Users\HP\Desktop\JIHANS POS\POS_\POS_\obj\Debug\POS_.Properties.Resources.resources
+C:\Users\HP\Desktop\JIHANS POS\POS_\POS_\obj\Debug\POS_.REP.frmDayBalanceSheet.resources
+C:\Users\HP\Desktop\JIHANS POS\POS_\POS_\obj\Debug\POS_.REP.ReportSupplierLedger.resources
+C:\Users\HP\Desktop\JIHANS POS\POS_\POS_\obj\Debug\POS_.REP.ReportSupplierCredit.resources
+C:\Users\HP\Desktop\JIHANS POS\POS_\POS_\obj\Debug\POS_.ReportCheckSupplierDetails.resources
+C:\Users\HP\Desktop\JIHANS POS\POS_\POS_\obj\Debug\POS_.REP.ReportItemDetails.resources
+C:\Users\HP\Desktop\JIHANS POS\POS_\POS_\obj\Debug\POS_.REP.ReportInvoiceDetailsPrintToCustomer.resources
+C:\Users\HP\Desktop\JIHANS POS\POS_\POS_\obj\Debug\POS_.REP.ReportInvoiceDetailsPrintToBranch.resources
+C:\Users\HP\Desktop\JIHANS POS\POS_\POS_\obj\Debug\POS_.REP.ReportPrintPurchaseDetailsToSupplier.resources
+C:\Users\HP\Desktop\JIHANS POS\POS_\POS_\obj\Debug\POS_.REP.ReportOrderReturnDetails.resources
+C:\Users\HP\Desktop\JIHANS POS\POS_\POS_\obj\Debug\POS_.REP.ReportPrintPurchaseDetailsToBranch.resources
+C:\Users\HP\Desktop\JIHANS POS\POS_\POS_\obj\Debug\POS_.REP.ReportSupplierPurchaseReturnDetails.resources
+C:\Users\HP\Desktop\JIHANS POS\POS_\POS_\obj\Debug\POS_.REP.ReportPurchaseReturnDetailsForBranch.resources
+C:\Users\HP\Desktop\JIHANS POS\POS_\POS_\obj\Debug\POS_.REP.ReportDaySammary.resources
+C:\Users\HP\Desktop\JIHANS POS\POS_\POS_\obj\Debug\POS_.REP.ReportInvoiceWiseProfitRaduce.resources
+C:\Users\HP\Desktop\JIHANS POS\POS_\POS_\obj\Debug\POS_.REP.ReportItemWiseProfit.resources
+C:\Users\HP\Desktop\JIHANS POS\POS_\POS_\obj\Debug\POS_.REP.frmWaitForm.resources
+C:\Users\HP\Desktop\JIHANS POS\POS_\POS_\obj\Debug\POS_.REP.ReportInvoicePrint.resources
+C:\Users\HP\Desktop\JIHANS POS\POS_\POS_\obj\Debug\POS_.REP.ReportInvoiceWiseProfit.resources
+C:\Users\HP\Desktop\JIHANS POS\POS_\POS_\obj\Debug\POS_.REP.ReportOrderDetails.resources
+C:\Users\HP\Desktop\JIHANS POS\POS_\POS_\obj\Debug\POS_.REP.ReportSupplierPurchaseDetails.resources
+C:\Users\HP\Desktop\JIHANS POS\POS_\POS_\obj\Debug\POS_.REP.ReportPurchaseDetailsForBranch.resources
+C:\Users\HP\Desktop\JIHANS POS\POS_\POS_\obj\Debug\POS_.REP.ReportCustomerInvoiceDetails.resources
+C:\Users\HP\Desktop\JIHANS POS\POS_\POS_\obj\Debug\POS_.ReportCheckCustomerDetails.resources
+C:\Users\HP\Desktop\JIHANS POS\POS_\POS_\obj\Debug\POS_.REP.ReportCustomerCredit.resources
+C:\Users\HP\Desktop\JIHANS POS\POS_\POS_\obj\Debug\POS_.REP.ReportCustomerLedger.resources
+C:\Users\HP\Desktop\JIHANS POS\POS_\POS_\obj\Debug\POS_.REP.ReportInvoiceDetails.resources
+C:\Users\HP\Desktop\JIHANS POS\POS_\POS_\obj\Debug\POS_.REP.ReportStockWithAmountItemDetails.resources
+C:\Users\HP\Desktop\JIHANS POS\POS_\POS_\obj\Debug\POS_.REP.ReportStockWithAmount.resources
+C:\Users\HP\Desktop\JIHANS POS\POS_\POS_\obj\Debug\POS_.REP.ReportItemFullDetails.resources
+C:\Users\HP\Desktop\JIHANS POS\POS_\POS_\obj\Debug\POS_.REP.ReportsStockSummary.resources
+C:\Users\HP\Desktop\JIHANS POS\POS_\POS_\obj\Debug\POS_.REP.ReportStockSummaryAllBranch.resources
+C:\Users\HP\Desktop\JIHANS POS\POS_\POS_\obj\Debug\POS_.csproj.GenerateResource.Cache
+C:\Users\HP\Desktop\JIHANS POS\POS_\POS_\obj\Debug\RdlCompile.cache
+C:\Users\HP\Desktop\JIHANS POS\POS_\POS_\obj\Debug\RdlCompile.compiled
+C:\Users\HP\Desktop\JIHANS POS\POS_\POS_\obj\Debug\POS_.exe
+C:\Users\HP\Desktop\JIHANS POS\POS_\POS_\bin\Debug\POS_.exe.config
+C:\Users\HP\Desktop\JIHANS POS\POS_\POS_\bin\Debug\POS_.exe
+C:\Users\HP\Desktop\JIHANS POS\POS_\POS_\bin\Debug\POS_.pdb
+C:\Users\HP\Desktop\JIHANS POS\POS_\POS_\bin\Debug\Neodynamic.SDK.Barcode.dll
+C:\Users\HP\Desktop\JIHANS POS\POS_\POS_\obj\Debug\POS_.pdb
+C:\Users\DELL\Desktop\coop pos\JIHANS POS\POS_\POS_\bin\Debug\POS_.exe.config
+C:\Users\DELL\Desktop\coop pos\JIHANS POS\POS_\POS_\obj\Debug\POS_.exe
+C:\Users\DELL\Desktop\coop pos\JIHANS POS\POS_\POS_\obj\Debug\POS_.pdb
+C:\Users\DELL\Desktop\coop pos\JIHANS POS\POS_\POS_\bin\Debug\POS_.exe
+C:\Users\DELL\Desktop\coop pos\JIHANS POS\POS_\POS_\bin\Debug\POS_.pdb
+C:\Users\DELL\Desktop\coop pos\JIHANS POS\POS_\POS_\obj\Debug\POS_.frmBarcodePrint.resources
+C:\Users\DELL\Desktop\coop pos\JIHANS POS\POS_\POS_\obj\Debug\POS_.PRE.frmCardExpensesPercentage.resources
+C:\Users\DELL\Desktop\coop pos\JIHANS POS\POS_\POS_\obj\Debug\POS_.PRE.frmPointsPercentage.resources
+C:\Users\DELL\Desktop\coop pos\JIHANS POS\POS_\POS_\obj\Debug\POS_.PRE.frmReActiveLoyaltyCustomer.resources
+C:\Users\DELL\Desktop\coop pos\JIHANS POS\POS_\POS_\obj\Debug\POS_.PRE.frmDummyInvoicePayment.resources
+C:\Users\DELL\Desktop\coop pos\JIHANS POS\POS_\POS_\obj\Debug\POS_.PRE.frmLoyaltyCustomer.resources
+C:\Users\DELL\Desktop\coop pos\JIHANS POS\POS_\POS_\obj\Debug\POS_.frmVehicleDummyInvoice.resources
+C:\Users\DELL\Desktop\coop pos\JIHANS POS\POS_\POS_\obj\Debug\POS_.PRE.frmVehicleNewItemSearch.resources
+C:\Users\DELL\Desktop\coop pos\JIHANS POS\POS_\POS_\obj\Debug\POS_.PRE.frmChequeDetailsForDepositOrPurchasePayment.resources
+C:\Users\DELL\Desktop\coop pos\JIHANS POS\POS_\POS_\obj\Debug\POS_.PRE.frmBankCardPaymentExpenses.resources
+C:\Users\DELL\Desktop\coop pos\JIHANS POS\POS_\POS_\obj\Debug\POS_.PRE.frmBankExpenses.resources
+C:\Users\DELL\Desktop\coop pos\JIHANS POS\POS_\POS_\obj\Debug\POS_.PRE.frmMultifilPersionalChequeDetailsView.resources
+C:\Users\DELL\Desktop\coop pos\JIHANS POS\POS_\POS_\obj\Debug\POS_.PRE.frmPayment.resources
+C:\Users\DELL\Desktop\coop pos\JIHANS POS\POS_\POS_\obj\Debug\POS_.PRE.OwnChequeReturn.resources
+C:\Users\DELL\Desktop\coop pos\JIHANS POS\POS_\POS_\obj\Debug\POS_.PRE.frmGetChequePaidIDForInvoicePayment.resources
+C:\Users\DELL\Desktop\coop pos\JIHANS POS\POS_\POS_\obj\Debug\POS_.frmProfitCalculate.resources
+C:\Users\DELL\Desktop\coop pos\JIHANS POS\POS_\POS_\obj\Debug\POS_.PRE.frmSalarySheet.resources
+C:\Users\DELL\Desktop\coop pos\JIHANS POS\POS_\POS_\obj\Debug\POS_.frmSpendPayment.resources
+C:\Users\DELL\Desktop\coop pos\JIHANS POS\POS_\POS_\obj\Debug\POS_.frmNewReturnForm.resources
+C:\Users\DELL\Desktop\coop pos\JIHANS POS\POS_\POS_\obj\Debug\POS_.frmNewOldBillPayment.resources
+C:\Users\DELL\Desktop\coop pos\JIHANS POS\POS_\POS_\obj\Debug\POS_.PRE.frmEmployeSalary.resources
+C:\Users\DELL\Desktop\coop pos\JIHANS POS\POS_\POS_\obj\Debug\POS_.frmSearchEmploye.resources
+C:\Users\DELL\Desktop\coop pos\JIHANS POS\POS_\POS_\obj\Debug\POS_.PRE.frmEmployeAdvance.resources
+C:\Users\DELL\Desktop\coop pos\JIHANS POS\POS_\POS_\obj\Debug\POS_.frmShareStaff.resources
+C:\Users\DELL\Desktop\coop pos\JIHANS POS\POS_\POS_\obj\Debug\POS_.PRE.frmShareholderWhithdraw.resources
+C:\Users\DELL\Desktop\coop pos\JIHANS POS\POS_\POS_\obj\Debug\POS_.frmSearchShareholders.resources
+C:\Users\DELL\Desktop\coop pos\JIHANS POS\POS_\POS_\obj\Debug\POS_.PRE.frmShareholderDeposit.resources
+C:\Users\DELL\Desktop\coop pos\JIHANS POS\POS_\POS_\obj\Debug\POS_.frmShareholders.resources
+C:\Users\DELL\Desktop\coop pos\JIHANS POS\POS_\POS_\obj\Debug\POS_.PRE.frmBankWithdraw.resources
+C:\Users\DELL\Desktop\coop pos\JIHANS POS\POS_\POS_\obj\Debug\POS_.PRE.frmSearchAccountno.resources
+C:\Users\DELL\Desktop\coop pos\JIHANS POS\POS_\POS_\obj\Debug\POS_.PRE.frmBankAccountAdd.resources
+C:\Users\DELL\Desktop\coop pos\JIHANS POS\POS_\POS_\obj\Debug\POS_.PRE.frmBankDeposit.resources
+C:\Users\DELL\Desktop\coop pos\JIHANS POS\POS_\POS_\obj\Debug\POS_.frmSearchBankName.resources
+C:\Users\DELL\Desktop\coop pos\JIHANS POS\POS_\POS_\obj\Debug\POS_.frmBankNameAdd.resources
+C:\Users\DELL\Desktop\coop pos\JIHANS POS\POS_\POS_\obj\Debug\POS_.frmSearchExpensesCategory.resources
+C:\Users\DELL\Desktop\coop pos\JIHANS POS\POS_\POS_\obj\Debug\POS_.frmExpensesCategory.resources
+C:\Users\DELL\Desktop\coop pos\JIHANS POS\POS_\POS_\obj\Debug\POS_.PRE.frmPurchaseRet.resources
+C:\Users\DELL\Desktop\coop pos\JIHANS POS\POS_\POS_\obj\Debug\POS_.frmSpendAdd.resources
+C:\Users\DELL\Desktop\coop pos\JIHANS POS\POS_\POS_\obj\Debug\POS_.frmThiknessSearch.resources
+C:\Users\DELL\Desktop\coop pos\JIHANS POS\POS_\POS_\obj\Debug\POS_.frmThikness.resources
+C:\Users\DELL\Desktop\coop pos\JIHANS POS\POS_\POS_\obj\Debug\POS_.frmHelp.resources
+C:\Users\DELL\Desktop\coop pos\JIHANS POS\POS_\POS_\obj\Debug\POS_.PRE.frmPurchasePayment.resources
+C:\Users\DELL\Desktop\coop pos\JIHANS POS\POS_\POS_\obj\Debug\POS_.frmSearchBranch.resources
+C:\Users\DELL\Desktop\coop pos\JIHANS POS\POS_\POS_\obj\Debug\POS_.frmAdminLogin.resources
+C:\Users\DELL\Desktop\coop pos\JIHANS POS\POS_\POS_\obj\Debug\POS_.frmAllLogin.resources
+C:\Users\DELL\Desktop\coop pos\JIHANS POS\POS_\POS_\obj\Debug\POS_.PRE.frmChequeReturnEdit.resources
+C:\Users\DELL\Desktop\coop pos\JIHANS POS\POS_\POS_\obj\Debug\POS_.PRE.frmChequeReturn.resources
+C:\Users\DELL\Desktop\coop pos\JIHANS POS\POS_\POS_\obj\Debug\POS_.Form1.resources
+C:\Users\DELL\Desktop\coop pos\JIHANS POS\POS_\POS_\obj\Debug\POS_.PRE.frmNewItemSearch.resources
+C:\Users\DELL\Desktop\coop pos\JIHANS POS\POS_\POS_\obj\Debug\POS_.PRE.frmOutGoinLoan.resources
+C:\Users\DELL\Desktop\coop pos\JIHANS POS\POS_\POS_\obj\Debug\POS_.PRE.frmOverPaymentDisplay.resources
+C:\Users\DELL\Desktop\coop pos\JIHANS POS\POS_\POS_\obj\Debug\POS_.PRE.frmOverPaymetRecovery.resources
+C:\Users\DELL\Desktop\coop pos\JIHANS POS\POS_\POS_\obj\Debug\POS_.frmShiftLogin.resources
+C:\Users\DELL\Desktop\coop pos\JIHANS POS\POS_\POS_\obj\Debug\POS_.frmStockAdjustment.resources
+C:\Users\DELL\Desktop\coop pos\JIHANS POS\POS_\POS_\obj\Debug\POS_.frmItemSearchForStockAdjustment.resources
+C:\Users\DELL\Desktop\coop pos\JIHANS POS\POS_\POS_\obj\Debug\POS_.frmSalePriceAndMinimuSalePriceUpdate.resources
+C:\Users\DELL\Desktop\coop pos\JIHANS POS\POS_\POS_\obj\Debug\POS_.frmCostPriceUpdate.resources
+C:\Users\DELL\Desktop\coop pos\JIHANS POS\POS_\POS_\obj\Debug\POS_.frmNewDiscountAdd.resources
+C:\Users\DELL\Desktop\coop pos\JIHANS POS\POS_\POS_\obj\Debug\POS_.PRE.frmInvoicePrinting.resources
+C:\Users\DELL\Desktop\coop pos\JIHANS POS\POS_\POS_\obj\Debug\POS_.frmItemSearchForBatchItemRegistor.resources
+C:\Users\DELL\Desktop\coop pos\JIHANS POS\POS_\POS_\obj\Debug\POS_.frmBatchItemRegistor.resources
+C:\Users\DELL\Desktop\coop pos\JIHANS POS\POS_\POS_\obj\Debug\POS_.frmOldBillPayment.resources
+C:\Users\DELL\Desktop\coop pos\JIHANS POS\POS_\POS_\obj\Debug\POS_.frmRefund.resources
+C:\Users\DELL\Desktop\coop pos\JIHANS POS\POS_\POS_\obj\Debug\POS_.frmSearchCustomer.resources
+C:\Users\DELL\Desktop\coop pos\JIHANS POS\POS_\POS_\obj\Debug\POS_.PRE.frm.resources
+C:\Users\DELL\Desktop\coop pos\JIHANS POS\POS_\POS_\obj\Debug\POS_.PRE.frmBranchBranchItemExchange.resources
+C:\Users\DELL\Desktop\coop pos\JIHANS POS\POS_\POS_\obj\Debug\POS_.frmItemSearchForPurchase.resources
+C:\Users\DELL\Desktop\coop pos\JIHANS POS\POS_\POS_\obj\Debug\POS_.frmItemDetailsEdit.resources
+C:\Users\DELL\Desktop\coop pos\JIHANS POS\POS_\POS_\obj\Debug\POS_.frmItemNewBatch.resources
+C:\Users\DELL\Desktop\coop pos\JIHANS POS\POS_\POS_\obj\Debug\POS_.frmItemSearch.resources
+C:\Users\DELL\Desktop\coop pos\JIHANS POS\POS_\POS_\obj\Debug\POS_.PRE.frmPurchase.resources
+C:\Users\DELL\Desktop\coop pos\JIHANS POS\POS_\POS_\obj\Debug\POS_.frmSaleForm.resources
+C:\Users\DELL\Desktop\coop pos\JIHANS POS\POS_\POS_\obj\Debug\POS_.frmSerachSupplier.resources
+C:\Users\DELL\Desktop\coop pos\JIHANS POS\POS_\POS_\obj\Debug\POS_.frmSearchSubCategory.resources
+C:\Users\DELL\Desktop\coop pos\JIHANS POS\POS_\POS_\obj\Debug\POS_.frmSearchUnitType.resources
+C:\Users\DELL\Desktop\coop pos\JIHANS POS\POS_\POS_\obj\Debug\POS_.frmSearchColor.resources
+C:\Users\DELL\Desktop\coop pos\JIHANS POS\POS_\POS_\obj\Debug\POS_.frmearchSize.resources
+C:\Users\DELL\Desktop\coop pos\JIHANS POS\POS_\POS_\obj\Debug\POS_.frmSearchBrand.resources
+C:\Users\DELL\Desktop\coop pos\JIHANS POS\POS_\POS_\obj\Debug\POS_.frmCustomer.resources
+C:\Users\DELL\Desktop\coop pos\JIHANS POS\POS_\POS_\obj\Debug\POS_.frmItemMaster.resources
+C:\Users\DELL\Desktop\coop pos\JIHANS POS\POS_\POS_\obj\Debug\POS_.frmSearchCategory.resources
+C:\Users\DELL\Desktop\coop pos\JIHANS POS\POS_\POS_\obj\Debug\POS_.frmSubCategory.resources
+C:\Users\DELL\Desktop\coop pos\JIHANS POS\POS_\POS_\obj\Debug\POS_.frmSupplier.resources
+C:\Users\DELL\Desktop\coop pos\JIHANS POS\POS_\POS_\obj\Debug\POS_.frmUnitType.resources
+C:\Users\DELL\Desktop\coop pos\JIHANS POS\POS_\POS_\obj\Debug\POS_.frmBrand.resources
+C:\Users\DELL\Desktop\coop pos\JIHANS POS\POS_\POS_\obj\Debug\POS_.PRE.frmNewDashBord.resources
+C:\Users\DELL\Desktop\coop pos\JIHANS POS\POS_\POS_\obj\Debug\POS_.frmSize.resources
+C:\Users\DELL\Desktop\coop pos\JIHANS POS\POS_\POS_\obj\Debug\POS_.frmAddColor.resources
+C:\Users\DELL\Desktop\coop pos\JIHANS POS\POS_\POS_\obj\Debug\POS_.frmAddCatergory.resources
+C:\Users\DELL\Desktop\coop pos\JIHANS POS\POS_\POS_\obj\Debug\POS_.frmusers.resources
+C:\Users\DELL\Desktop\coop pos\JIHANS POS\POS_\POS_\obj\Debug\POS_.Properties.Resources.resources
+C:\Users\DELL\Desktop\coop pos\JIHANS POS\POS_\POS_\obj\Debug\POS_.REP.frmDayBalanceSheet.resources
+C:\Users\DELL\Desktop\coop pos\JIHANS POS\POS_\POS_\obj\Debug\POS_.REP.ReportSupplierLedger.resources
+C:\Users\DELL\Desktop\coop pos\JIHANS POS\POS_\POS_\obj\Debug\POS_.REP.ReportSupplierCredit.resources
+C:\Users\DELL\Desktop\coop pos\JIHANS POS\POS_\POS_\obj\Debug\POS_.ReportCheckSupplierDetails.resources
+C:\Users\DELL\Desktop\coop pos\JIHANS POS\POS_\POS_\obj\Debug\POS_.REP.ReportItemDetails.resources
+C:\Users\DELL\Desktop\coop pos\JIHANS POS\POS_\POS_\obj\Debug\POS_.REP.ReportInvoiceDetailsPrintToCustomer.resources
+C:\Users\DELL\Desktop\coop pos\JIHANS POS\POS_\POS_\obj\Debug\POS_.REP.ReportInvoiceDetailsPrintToBranch.resources
+C:\Users\DELL\Desktop\coop pos\JIHANS POS\POS_\POS_\obj\Debug\POS_.REP.ReportPrintPurchaseDetailsToSupplier.resources
+C:\Users\DELL\Desktop\coop pos\JIHANS POS\POS_\POS_\obj\Debug\POS_.REP.ReportOrderReturnDetails.resources
+C:\Users\DELL\Desktop\coop pos\JIHANS POS\POS_\POS_\obj\Debug\POS_.REP.ReportPrintPurchaseDetailsToBranch.resources
+C:\Users\DELL\Desktop\coop pos\JIHANS POS\POS_\POS_\obj\Debug\POS_.REP.ReportSupplierPurchaseReturnDetails.resources
+C:\Users\DELL\Desktop\coop pos\JIHANS POS\POS_\POS_\obj\Debug\POS_.REP.ReportPurchaseReturnDetailsForBranch.resources
+C:\Users\DELL\Desktop\coop pos\JIHANS POS\POS_\POS_\obj\Debug\POS_.REP.ReportDaySammary.resources
+C:\Users\DELL\Desktop\coop pos\JIHANS POS\POS_\POS_\obj\Debug\POS_.REP.ReportInvoiceWiseProfitRaduce.resources
+C:\Users\DELL\Desktop\coop pos\JIHANS POS\POS_\POS_\obj\Debug\POS_.REP.ReportItemWiseProfit.resources
+C:\Users\DELL\Desktop\coop pos\JIHANS POS\POS_\POS_\obj\Debug\POS_.REP.frmWaitForm.resources
+C:\Users\DELL\Desktop\coop pos\JIHANS POS\POS_\POS_\obj\Debug\POS_.REP.ReportInvoicePrint.resources
+C:\Users\DELL\Desktop\coop pos\JIHANS POS\POS_\POS_\obj\Debug\POS_.REP.ReportInvoiceWiseProfit.resources
+C:\Users\DELL\Desktop\coop pos\JIHANS POS\POS_\POS_\obj\Debug\POS_.REP.ReportOrderDetails.resources
+C:\Users\DELL\Desktop\coop pos\JIHANS POS\POS_\POS_\obj\Debug\POS_.REP.ReportSupplierPurchaseDetails.resources
+C:\Users\DELL\Desktop\coop pos\JIHANS POS\POS_\POS_\obj\Debug\POS_.REP.ReportPurchaseDetailsForBranch.resources
+C:\Users\DELL\Desktop\coop pos\JIHANS POS\POS_\POS_\obj\Debug\POS_.REP.ReportCustomerInvoiceDetails.resources
+C:\Users\DELL\Desktop\coop pos\JIHANS POS\POS_\POS_\obj\Debug\POS_.ReportCheckCustomerDetails.resources
+C:\Users\DELL\Desktop\coop pos\JIHANS POS\POS_\POS_\obj\Debug\POS_.REP.ReportCustomerCredit.resources
+C:\Users\DELL\Desktop\coop pos\JIHANS POS\POS_\POS_\obj\Debug\POS_.REP.ReportCustomerLedger.resources
+C:\Users\DELL\Desktop\coop pos\JIHANS POS\POS_\POS_\obj\Debug\POS_.REP.ReportInvoiceDetails.resources
+C:\Users\DELL\Desktop\coop pos\JIHANS POS\POS_\POS_\obj\Debug\POS_.REP.ReportStockWithAmountItemDetails.resources
+C:\Users\DELL\Desktop\coop pos\JIHANS POS\POS_\POS_\obj\Debug\POS_.REP.ReportStockWithAmount.resources
+C:\Users\DELL\Desktop\coop pos\JIHANS POS\POS_\POS_\obj\Debug\POS_.REP.ReportItemFullDetails.resources
+C:\Users\DELL\Desktop\coop pos\JIHANS POS\POS_\POS_\obj\Debug\POS_.REP.ReportsStockSummary.resources
+C:\Users\DELL\Desktop\coop pos\JIHANS POS\POS_\POS_\obj\Debug\POS_.REP.ReportStockSummaryAllBranch.resources
+C:\Users\DELL\Desktop\coop pos\JIHANS POS\POS_\POS_\obj\Debug\POS_.csproj.GenerateResource.Cache
+C:\Users\DELL\Desktop\coop pos\JIHANS POS\POS_\POS_\obj\Debug\RdlCompile.cache
+C:\Users\DELL\Desktop\coop pos\JIHANS POS\POS_\POS_\obj\Debug\RdlCompile.compiled
+C:\Users\DELL\Desktop\coop pos\JIHANS POS\POS_\POS_\obj\Debug\POS_.csprojResolveAssemblyReference.cache
+H:\coop pos\JIHANS POS\POS_\POS_\bin\Debug\POS_.exe.config
+H:\coop pos\JIHANS POS\POS_\POS_\obj\Debug\POS_.exe
+H:\coop pos\JIHANS POS\POS_\POS_\obj\Debug\POS_.pdb
+H:\coop pos\JIHANS POS\POS_\POS_\bin\Debug\POS_.exe
+H:\coop pos\JIHANS POS\POS_\POS_\bin\Debug\POS_.pdb
+H:\coop pos\JIHANS POS\POS_\POS_\obj\Debug\POS_.frmBarcodePrint.resources
+H:\coop pos\JIHANS POS\POS_\POS_\obj\Debug\POS_.PRE.frmCardExpensesPercentage.resources
+H:\coop pos\JIHANS POS\POS_\POS_\obj\Debug\POS_.PRE.frmPointsPercentage.resources
+H:\coop pos\JIHANS POS\POS_\POS_\obj\Debug\POS_.PRE.frmReActiveLoyaltyCustomer.resources
+H:\coop pos\JIHANS POS\POS_\POS_\obj\Debug\POS_.PRE.frmDummyInvoicePayment.resources
+H:\coop pos\JIHANS POS\POS_\POS_\obj\Debug\POS_.PRE.frmLoyaltyCustomer.resources
+H:\coop pos\JIHANS POS\POS_\POS_\obj\Debug\POS_.frmVehicleDummyInvoice.resources
+H:\coop pos\JIHANS POS\POS_\POS_\obj\Debug\POS_.PRE.frmVehicleNewItemSearch.resources
+H:\coop pos\JIHANS POS\POS_\POS_\obj\Debug\POS_.PRE.frmChequeDetailsForDepositOrPurchasePayment.resources
+H:\coop pos\JIHANS POS\POS_\POS_\obj\Debug\POS_.PRE.frmBankCardPaymentExpenses.resources
+H:\coop pos\JIHANS POS\POS_\POS_\obj\Debug\POS_.PRE.frmBankExpenses.resources
+H:\coop pos\JIHANS POS\POS_\POS_\obj\Debug\POS_.PRE.frmMultifilPersionalChequeDetailsView.resources
+H:\coop pos\JIHANS POS\POS_\POS_\obj\Debug\POS_.PRE.frmPayment.resources
+H:\coop pos\JIHANS POS\POS_\POS_\obj\Debug\POS_.PRE.OwnChequeReturn.resources
+H:\coop pos\JIHANS POS\POS_\POS_\obj\Debug\POS_.PRE.frmGetChequePaidIDForInvoicePayment.resources
+H:\coop pos\JIHANS POS\POS_\POS_\obj\Debug\POS_.frmProfitCalculate.resources
+H:\coop pos\JIHANS POS\POS_\POS_\obj\Debug\POS_.PRE.frmSalarySheet.resources
+H:\coop pos\JIHANS POS\POS_\POS_\obj\Debug\POS_.frmSpendPayment.resources
+H:\coop pos\JIHANS POS\POS_\POS_\obj\Debug\POS_.frmNewReturnForm.resources
+H:\coop pos\JIHANS POS\POS_\POS_\obj\Debug\POS_.frmNewOldBillPayment.resources
+H:\coop pos\JIHANS POS\POS_\POS_\obj\Debug\POS_.PRE.frmEmployeSalary.resources
+H:\coop pos\JIHANS POS\POS_\POS_\obj\Debug\POS_.frmSearchEmploye.resources
+H:\coop pos\JIHANS POS\POS_\POS_\obj\Debug\POS_.PRE.frmEmployeAdvance.resources
+H:\coop pos\JIHANS POS\POS_\POS_\obj\Debug\POS_.frmShareStaff.resources
+H:\coop pos\JIHANS POS\POS_\POS_\obj\Debug\POS_.PRE.frmShareholderWhithdraw.resources
+H:\coop pos\JIHANS POS\POS_\POS_\obj\Debug\POS_.frmSearchShareholders.resources
+H:\coop pos\JIHANS POS\POS_\POS_\obj\Debug\POS_.PRE.frmShareholderDeposit.resources
+H:\coop pos\JIHANS POS\POS_\POS_\obj\Debug\POS_.frmShareholders.resources
+H:\coop pos\JIHANS POS\POS_\POS_\obj\Debug\POS_.PRE.frmBankWithdraw.resources
+H:\coop pos\JIHANS POS\POS_\POS_\obj\Debug\POS_.PRE.frmSearchAccountno.resources
+H:\coop pos\JIHANS POS\POS_\POS_\obj\Debug\POS_.PRE.frmBankAccountAdd.resources
+H:\coop pos\JIHANS POS\POS_\POS_\obj\Debug\POS_.PRE.frmBankDeposit.resources
+H:\coop pos\JIHANS POS\POS_\POS_\obj\Debug\POS_.frmSearchBankName.resources
+H:\coop pos\JIHANS POS\POS_\POS_\obj\Debug\POS_.frmBankNameAdd.resources
+H:\coop pos\JIHANS POS\POS_\POS_\obj\Debug\POS_.frmSearchExpensesCategory.resources
+H:\coop pos\JIHANS POS\POS_\POS_\obj\Debug\POS_.frmExpensesCategory.resources
+H:\coop pos\JIHANS POS\POS_\POS_\obj\Debug\POS_.PRE.frmPurchaseRet.resources
+H:\coop pos\JIHANS POS\POS_\POS_\obj\Debug\POS_.frmSpendAdd.resources
+H:\coop pos\JIHANS POS\POS_\POS_\obj\Debug\POS_.frmThiknessSearch.resources
+H:\coop pos\JIHANS POS\POS_\POS_\obj\Debug\POS_.frmThikness.resources
+H:\coop pos\JIHANS POS\POS_\POS_\obj\Debug\POS_.frmHelp.resources
+H:\coop pos\JIHANS POS\POS_\POS_\obj\Debug\POS_.PRE.frmPurchasePayment.resources
+H:\coop pos\JIHANS POS\POS_\POS_\obj\Debug\POS_.frmSearchBranch.resources
+H:\coop pos\JIHANS POS\POS_\POS_\obj\Debug\POS_.frmAdminLogin.resources
+H:\coop pos\JIHANS POS\POS_\POS_\obj\Debug\POS_.frmAllLogin.resources
+H:\coop pos\JIHANS POS\POS_\POS_\obj\Debug\POS_.PRE.frmChequeReturnEdit.resources
+H:\coop pos\JIHANS POS\POS_\POS_\obj\Debug\POS_.PRE.frmChequeReturn.resources
+H:\coop pos\JIHANS POS\POS_\POS_\obj\Debug\POS_.Form1.resources
+H:\coop pos\JIHANS POS\POS_\POS_\obj\Debug\POS_.PRE.frmNewItemSearch.resources
+H:\coop pos\JIHANS POS\POS_\POS_\obj\Debug\POS_.PRE.frmOutGoinLoan.resources
+H:\coop pos\JIHANS POS\POS_\POS_\obj\Debug\POS_.PRE.frmOverPaymentDisplay.resources
+H:\coop pos\JIHANS POS\POS_\POS_\obj\Debug\POS_.PRE.frmOverPaymetRecovery.resources
+H:\coop pos\JIHANS POS\POS_\POS_\obj\Debug\POS_.frmShiftLogin.resources
+H:\coop pos\JIHANS POS\POS_\POS_\obj\Debug\POS_.frmStockAdjustment.resources
+H:\coop pos\JIHANS POS\POS_\POS_\obj\Debug\POS_.frmItemSearchForStockAdjustment.resources
+H:\coop pos\JIHANS POS\POS_\POS_\obj\Debug\POS_.frmSalePriceAndMinimuSalePriceUpdate.resources
+H:\coop pos\JIHANS POS\POS_\POS_\obj\Debug\POS_.frmCostPriceUpdate.resources
+H:\coop pos\JIHANS POS\POS_\POS_\obj\Debug\POS_.frmNewDiscountAdd.resources
+H:\coop pos\JIHANS POS\POS_\POS_\obj\Debug\POS_.PRE.frmInvoicePrinting.resources
+H:\coop pos\JIHANS POS\POS_\POS_\obj\Debug\POS_.frmItemSearchForBatchItemRegistor.resources
+H:\coop pos\JIHANS POS\POS_\POS_\obj\Debug\POS_.frmBatchItemRegistor.resources
+H:\coop pos\JIHANS POS\POS_\POS_\obj\Debug\POS_.frmOldBillPayment.resources
+H:\coop pos\JIHANS POS\POS_\POS_\obj\Debug\POS_.frmRefund.resources
+H:\coop pos\JIHANS POS\POS_\POS_\obj\Debug\POS_.frmSearchCustomer.resources
+H:\coop pos\JIHANS POS\POS_\POS_\obj\Debug\POS_.PRE.frm.resources
+H:\coop pos\JIHANS POS\POS_\POS_\obj\Debug\POS_.PRE.frmBranchBranchItemExchange.resources
+H:\coop pos\JIHANS POS\POS_\POS_\obj\Debug\POS_.frmItemSearchForPurchase.resources
+H:\coop pos\JIHANS POS\POS_\POS_\obj\Debug\POS_.frmItemDetailsEdit.resources
+H:\coop pos\JIHANS POS\POS_\POS_\obj\Debug\POS_.frmItemNewBatch.resources
+H:\coop pos\JIHANS POS\POS_\POS_\obj\Debug\POS_.frmItemSearch.resources
+H:\coop pos\JIHANS POS\POS_\POS_\obj\Debug\POS_.PRE.frmPurchase.resources
+H:\coop pos\JIHANS POS\POS_\POS_\obj\Debug\POS_.frmSaleForm.resources
+H:\coop pos\JIHANS POS\POS_\POS_\obj\Debug\POS_.frmSerachSupplier.resources
+H:\coop pos\JIHANS POS\POS_\POS_\obj\Debug\POS_.frmSearchSubCategory.resources
+H:\coop pos\JIHANS POS\POS_\POS_\obj\Debug\POS_.frmSearchUnitType.resources
+H:\coop pos\JIHANS POS\POS_\POS_\obj\Debug\POS_.frmSearchColor.resources
+H:\coop pos\JIHANS POS\POS_\POS_\obj\Debug\POS_.frmearchSize.resources
+H:\coop pos\JIHANS POS\POS_\POS_\obj\Debug\POS_.frmSearchBrand.resources
+H:\coop pos\JIHANS POS\POS_\POS_\obj\Debug\POS_.frmCustomer.resources
+H:\coop pos\JIHANS POS\POS_\POS_\obj\Debug\POS_.frmItemMaster.resources
+H:\coop pos\JIHANS POS\POS_\POS_\obj\Debug\POS_.frmSearchCategory.resources
+H:\coop pos\JIHANS POS\POS_\POS_\obj\Debug\POS_.frmSubCategory.resources
+H:\coop pos\JIHANS POS\POS_\POS_\obj\Debug\POS_.frmSupplier.resources
+H:\coop pos\JIHANS POS\POS_\POS_\obj\Debug\POS_.frmUnitType.resources
+H:\coop pos\JIHANS POS\POS_\POS_\obj\Debug\POS_.frmBrand.resources
+H:\coop pos\JIHANS POS\POS_\POS_\obj\Debug\POS_.PRE.frmNewDashBord.resources
+H:\coop pos\JIHANS POS\POS_\POS_\obj\Debug\POS_.frmSize.resources
+H:\coop pos\JIHANS POS\POS_\POS_\obj\Debug\POS_.frmAddColor.resources
+H:\coop pos\JIHANS POS\POS_\POS_\obj\Debug\POS_.frmAddCatergory.resources
+H:\coop pos\JIHANS POS\POS_\POS_\obj\Debug\POS_.frmusers.resources
+H:\coop pos\JIHANS POS\POS_\POS_\obj\Debug\POS_.Properties.Resources.resources
+H:\coop pos\JIHANS POS\POS_\POS_\obj\Debug\POS_.REP.frmDayBalanceSheet.resources
+H:\coop pos\JIHANS POS\POS_\POS_\obj\Debug\POS_.REP.ReportSupplierLedger.resources
+H:\coop pos\JIHANS POS\POS_\POS_\obj\Debug\POS_.REP.ReportSupplierCredit.resources
+H:\coop pos\JIHANS POS\POS_\POS_\obj\Debug\POS_.ReportCheckSupplierDetails.resources
+H:\coop pos\JIHANS POS\POS_\POS_\obj\Debug\POS_.REP.ReportItemDetails.resources
+H:\coop pos\JIHANS POS\POS_\POS_\obj\Debug\POS_.REP.ReportInvoiceDetailsPrintToCustomer.resources
+H:\coop pos\JIHANS POS\POS_\POS_\obj\Debug\POS_.REP.ReportInvoiceDetailsPrintToBranch.resources
+H:\coop pos\JIHANS POS\POS_\POS_\obj\Debug\POS_.REP.ReportPrintPurchaseDetailsToSupplier.resources
+H:\coop pos\JIHANS POS\POS_\POS_\obj\Debug\POS_.REP.ReportOrderReturnDetails.resources
+H:\coop pos\JIHANS POS\POS_\POS_\obj\Debug\POS_.REP.ReportPrintPurchaseDetailsToBranch.resources
+H:\coop pos\JIHANS POS\POS_\POS_\obj\Debug\POS_.REP.ReportSupplierPurchaseReturnDetails.resources
+H:\coop pos\JIHANS POS\POS_\POS_\obj\Debug\POS_.REP.ReportPurchaseReturnDetailsForBranch.resources
+H:\coop pos\JIHANS POS\POS_\POS_\obj\Debug\POS_.REP.ReportDaySammary.resources
+H:\coop pos\JIHANS POS\POS_\POS_\obj\Debug\POS_.REP.ReportInvoiceWiseProfitRaduce.resources
+H:\coop pos\JIHANS POS\POS_\POS_\obj\Debug\POS_.REP.ReportItemWiseProfit.resources
+H:\coop pos\JIHANS POS\POS_\POS_\obj\Debug\POS_.REP.frmWaitForm.resources
+H:\coop pos\JIHANS POS\POS_\POS_\obj\Debug\POS_.REP.ReportInvoicePrint.resources
+H:\coop pos\JIHANS POS\POS_\POS_\obj\Debug\POS_.REP.ReportInvoiceWiseProfit.resources
+H:\coop pos\JIHANS POS\POS_\POS_\obj\Debug\POS_.REP.ReportOrderDetails.resources
+H:\coop pos\JIHANS POS\POS_\POS_\obj\Debug\POS_.REP.ReportSupplierPurchaseDetails.resources
+H:\coop pos\JIHANS POS\POS_\POS_\obj\Debug\POS_.REP.ReportPurchaseDetailsForBranch.resources
+H:\coop pos\JIHANS POS\POS_\POS_\obj\Debug\POS_.REP.ReportCustomerInvoiceDetails.resources
+H:\coop pos\JIHANS POS\POS_\POS_\obj\Debug\POS_.ReportCheckCustomerDetails.resources
+H:\coop pos\JIHANS POS\POS_\POS_\obj\Debug\POS_.REP.ReportCustomerCredit.resources
+H:\coop pos\JIHANS POS\POS_\POS_\obj\Debug\POS_.REP.ReportCustomerLedger.resources
+H:\coop pos\JIHANS POS\POS_\POS_\obj\Debug\POS_.REP.ReportInvoiceDetails.resources
+H:\coop pos\JIHANS POS\POS_\POS_\obj\Debug\POS_.REP.ReportStockWithAmountItemDetails.resources
+H:\coop pos\JIHANS POS\POS_\POS_\obj\Debug\POS_.REP.ReportStockWithAmount.resources
+H:\coop pos\JIHANS POS\POS_\POS_\obj\Debug\POS_.REP.ReportItemFullDetails.resources
+H:\coop pos\JIHANS POS\POS_\POS_\obj\Debug\POS_.REP.ReportsStockSummary.resources
+H:\coop pos\JIHANS POS\POS_\POS_\obj\Debug\POS_.REP.ReportStockSummaryAllBranch.resources
+H:\coop pos\JIHANS POS\POS_\POS_\obj\Debug\POS_.csproj.GenerateResource.Cache
+H:\coop pos\JIHANS POS\POS_\POS_\obj\Debug\RdlCompile.cache
+H:\coop pos\JIHANS POS\POS_\POS_\obj\Debug\RdlCompile.compiled
+D:\Mina\POS_\bin\Debug\POS_.exe.config
+D:\Mina\POS_\obj\Debug\POS_.exe
+D:\Mina\POS_\obj\Debug\POS_.pdb
+D:\Mina\POS_\bin\Debug\POS_.exe
+D:\Mina\POS_\bin\Debug\POS_.pdb
+D:\Mina\POS_\bin\Debug\mysql.data.entity.dll
+D:\Mina\POS_\bin\Debug\SkinSoft.VisualStyler.dll
+D:\Mina\POS_\bin\Debug\SkinSoft.VisualStyler.xml
+D:\Mina\POS_\obj\Debug\POS_.Accounts.frmJournal.resources
+D:\Mina\POS_\obj\Debug\POS_.Accounts.frmPaymentVoucher.resources
+D:\Mina\POS_\obj\Debug\POS_.Accounts.frmRecipt.resources
+D:\Mina\POS_\obj\Debug\POS_.PRE.frmAccountMaster.resources
+D:\Mina\POS_\obj\Debug\POS_.Accounts.frmContra.resources
+D:\Mina\POS_\obj\Debug\POS_.frmBankNameAdd.resources
+D:\Mina\POS_\obj\Debug\POS_.NewPurchase.frmBankForQRCodePayment.resources
+D:\Mina\POS_\obj\Debug\POS_.NewPurchase.frmGiftVoucherCreate.resources
+D:\Mina\POS_\obj\Debug\POS_.NewPurchase.frmNewCostpriceUpdate.resources
+D:\Mina\POS_\obj\Debug\POS_.NewPurchase.frmNewItemNewBatch.resources
+D:\Mina\POS_\obj\Debug\POS_.NewPurchase.frmNewItemMaster.resources
+D:\Mina\POS_\obj\Debug\POS_.NewPurchase.frmNewPurchase.resources
+D:\Mina\POS_\obj\Debug\POS_.NewPurchase.frmNewStockAdj.resources
+D:\Mina\POS_\obj\Debug\POS_.NewPurchase.frmGiftVoucherSale.resources
+D:\Mina\POS_\obj\Debug\POS_.NewPurchase.frmCreditSettelment.resources
+D:\Mina\POS_\obj\Debug\POS_.NEWREP.frmBalanceSheet.resources
+D:\Mina\POS_\obj\Debug\POS_.NEWREP.ReportStockCategoryWise.resources
+D:\Mina\POS_\obj\Debug\POS_.PRE.CfrmPurchase.resources
+D:\Mina\POS_\obj\Debug\POS_.PRE.CfrmPurchaseRet.resources
+D:\Mina\POS_\obj\Debug\POS_.PRE.CfrmPurchaseDetailsPostToAccounts.resources
+D:\Mina\POS_\obj\Debug\POS_.PRE.CfrmPurchaseRetuenDetailsPostToAccounts.resources
+D:\Mina\POS_\obj\Debug\POS_.PRE.frmGiftVoucherIssueCancel.resources
+D:\Mina\POS_\obj\Debug\POS_.PRE.frmGiftVoucherIssue.resources
+D:\Mina\POS_\obj\Debug\POS_.PRE.frmDiscountCardCancel.resources
+D:\Mina\POS_\obj\Debug\POS_.PRE.frmPointsCardCancel.resources
+D:\Mina\POS_\obj\Debug\POS_.PRE.frmDiscountPercentage.resources
+D:\Mina\POS_\obj\Debug\POS_.PRE.frmDiscountCardIssue.resources
+D:\Mina\POS_\obj\Debug\POS_.PRE.frmPointsCardIssue.resources
+D:\Mina\POS_\obj\Debug\POS_.PRE.frmNewStockAdje.resources
+D:\Mina\POS_\obj\Debug\POS_.frmPurchaseItemEdit.resources
+D:\Mina\POS_\obj\Debug\POS_.Form1.resources
+D:\Mina\POS_\obj\Debug\POS_.frmBarcodePrint.resources
+D:\Mina\POS_\obj\Debug\POS_.PRE.frmCardExpensesPercentage.resources
+D:\Mina\POS_\obj\Debug\POS_.PRE.frmPointsPercentage.resources
+D:\Mina\POS_\obj\Debug\POS_.PRE.frmPurchaseRequest.resources
+D:\Mina\POS_\obj\Debug\POS_.PRE.frmReActiveLoyaltyCustomer.resources
+D:\Mina\POS_\obj\Debug\POS_.PRE.frmDummyInvoicePayment.resources
+D:\Mina\POS_\obj\Debug\POS_.PRE.frmLoyaltyCustomer.resources
+D:\Mina\POS_\obj\Debug\POS_.frmVehicleDummyInvoice.resources
+D:\Mina\POS_\obj\Debug\POS_.PRE.frmVehicleNewItemSearch.resources
+D:\Mina\POS_\obj\Debug\POS_.PRE.frmChequeDetailsForDepositOrPurchasePayment.resources
+D:\Mina\POS_\obj\Debug\POS_.PRE.frmBankCardPaymentExpenses.resources
+D:\Mina\POS_\obj\Debug\POS_.PRE.frmBankExpenses.resources
+D:\Mina\POS_\obj\Debug\POS_.PRE.frmMultifilPersionalChequeDetailsView.resources
+D:\Mina\POS_\obj\Debug\POS_.PRE.frmPayment.resources
+D:\Mina\POS_\obj\Debug\POS_.PRE.OwnChequeReturn.resources
+D:\Mina\POS_\obj\Debug\POS_.PRE.frmGetChequePaidIDForInvoicePayment.resources
+D:\Mina\POS_\obj\Debug\POS_.frmProfitCalculate.resources
+D:\Mina\POS_\obj\Debug\POS_.PRE.frmSalarySheet.resources
+D:\Mina\POS_\obj\Debug\POS_.frmSpendPayment.resources
+D:\Mina\POS_\obj\Debug\POS_.frmNewReturnForm.resources
+D:\Mina\POS_\obj\Debug\POS_.frmNewOldBillPayment.resources
+D:\Mina\POS_\obj\Debug\POS_.PRE.frmEmployeSalary.resources
+D:\Mina\POS_\obj\Debug\POS_.frmSearchEmploye.resources
+D:\Mina\POS_\obj\Debug\POS_.PRE.frmEmployeAdvance.resources
+D:\Mina\POS_\obj\Debug\POS_.frmShareStaff.resources
+D:\Mina\POS_\obj\Debug\POS_.PRE.frmShareholderWhithdraw.resources
+D:\Mina\POS_\obj\Debug\POS_.frmSearchShareholders.resources
+D:\Mina\POS_\obj\Debug\POS_.PRE.frmShareholderDeposit.resources
+D:\Mina\POS_\obj\Debug\POS_.frmShareholders.resources
+D:\Mina\POS_\obj\Debug\POS_.PRE.frmBankWithdraw.resources
+D:\Mina\POS_\obj\Debug\POS_.PRE.frmSearchAccountno.resources
+D:\Mina\POS_\obj\Debug\POS_.PRE.frmBankAccountAdd.resources
+D:\Mina\POS_\obj\Debug\POS_.PRE.frmBankDeposit.resources
+D:\Mina\POS_\obj\Debug\POS_.frmSearchBankName.resources
+D:\Mina\POS_\obj\Debug\POS_.NewPurchase.frmBankForCardsPayment.resources
+D:\Mina\POS_\obj\Debug\POS_.frmSearchExpensesCategory.resources
+D:\Mina\POS_\obj\Debug\POS_.frmExpensesCategory.resources
+D:\Mina\POS_\obj\Debug\POS_.PRE.frmPurchaseRet.resources
+D:\Mina\POS_\obj\Debug\POS_.frmSpendAdd.resources
+D:\Mina\POS_\obj\Debug\POS_.frmThiknessSearch.resources
+D:\Mina\POS_\obj\Debug\POS_.frmThikness.resources
+D:\Mina\POS_\obj\Debug\POS_.frmHelp.resources
+D:\Mina\POS_\obj\Debug\POS_.PRE.frmPurchasePayment.resources
+D:\Mina\POS_\obj\Debug\POS_.frmSearchBranch.resources
+D:\Mina\POS_\obj\Debug\POS_.frmAdminLogin.resources
+D:\Mina\POS_\obj\Debug\POS_.frmAllLogin.resources
+D:\Mina\POS_\obj\Debug\POS_.PRE.frmChequeReturnEdit.resources
+D:\Mina\POS_\obj\Debug\POS_.PRE.frmChequeReturn.resources
+D:\Mina\POS_\obj\Debug\POS_.PRE.frmNewItemSearch.resources
+D:\Mina\POS_\obj\Debug\POS_.PRE.frmOutGoinLoan.resources
+D:\Mina\POS_\obj\Debug\POS_.PRE.frmOverPaymentDisplay.resources
+D:\Mina\POS_\obj\Debug\POS_.PRE.frmOverPaymetRecovery.resources
+D:\Mina\POS_\obj\Debug\POS_.frmShiftLogin.resources
+D:\Mina\POS_\obj\Debug\POS_.frmStockAdjustment.resources
+D:\Mina\POS_\obj\Debug\POS_.frmItemSearchForStockAdjustment.resources
+D:\Mina\POS_\obj\Debug\POS_.frmSalePriceAndMinimuSalePriceUpdate.resources
+D:\Mina\POS_\obj\Debug\POS_.frmCostPriceUpdate.resources
+D:\Mina\POS_\obj\Debug\POS_.frmNewDiscountAdd.resources
+D:\Mina\POS_\obj\Debug\POS_.PRE.frmInvoicePrinting.resources
+D:\Mina\POS_\obj\Debug\POS_.frmItemSearchForBatchItemRegistor.resources
+D:\Mina\POS_\obj\Debug\POS_.frmBatchItemRegistor.resources
+D:\Mina\POS_\obj\Debug\POS_.frmOldBillPayment.resources
+D:\Mina\POS_\obj\Debug\POS_.frmRefund.resources
+D:\Mina\POS_\obj\Debug\POS_.frmSearchCustomer.resources
+D:\Mina\POS_\obj\Debug\POS_.PRE.frm.resources
+D:\Mina\POS_\obj\Debug\POS_.PRE.frmBranchBranchItemExchange.resources
+D:\Mina\POS_\obj\Debug\POS_.frmItemSearchForPurchase.resources
+D:\Mina\POS_\obj\Debug\POS_.frmItemDetailsEdit.resources
+D:\Mina\POS_\obj\Debug\POS_.frmItemNewBatch.resources
+D:\Mina\POS_\obj\Debug\POS_.frmItemSearch.resources
+D:\Mina\POS_\obj\Debug\POS_.PRE.frmPurchase.resources
+D:\Mina\POS_\obj\Debug\POS_.frmSaleForm.resources
+D:\Mina\POS_\obj\Debug\POS_.frmSerachSupplier.resources
+D:\Mina\POS_\obj\Debug\POS_.frmSearchSubCategory.resources
+D:\Mina\POS_\obj\Debug\POS_.frmSearchUnitType.resources
+D:\Mina\POS_\obj\Debug\POS_.frmSearchColor.resources
+D:\Mina\POS_\obj\Debug\POS_.frmearchSize.resources
+D:\Mina\POS_\obj\Debug\POS_.frmSearchBrand.resources
+D:\Mina\POS_\obj\Debug\POS_.frmCustomer.resources
+D:\Mina\POS_\obj\Debug\POS_.frmItemMaster.resources
+D:\Mina\POS_\obj\Debug\POS_.frmSearchCategory.resources
+D:\Mina\POS_\obj\Debug\POS_.frmSubCategory.resources
+D:\Mina\POS_\obj\Debug\POS_.frmSupplier.resources
+D:\Mina\POS_\obj\Debug\POS_.frmUnitType.resources
+D:\Mina\POS_\obj\Debug\POS_.frmBrand.resources
+D:\Mina\POS_\obj\Debug\POS_.PRE.frmNewDashBord.resources
+D:\Mina\POS_\obj\Debug\POS_.frmSize.resources
+D:\Mina\POS_\obj\Debug\POS_.frmAddColor.resources
+D:\Mina\POS_\obj\Debug\POS_.frmAddCatergory.resources
+D:\Mina\POS_\obj\Debug\POS_.frmusers.resources
+D:\Mina\POS_\obj\Debug\POS_.Properties.Resources.resources
+D:\Mina\POS_\obj\Debug\POS_.REP.frmDayBalanceSheet.resources
+D:\Mina\POS_\obj\Debug\POS_.REP.ReportDayCashAndGoodsInHand.resources
+D:\Mina\POS_\obj\Debug\POS_.REP.ReportExpItemDetails.resources
+D:\Mina\POS_\obj\Debug\POS_.REP.ReportSupplierLedger.resources
+D:\Mina\POS_\obj\Debug\POS_.REP.ReportSupplierCredit.resources
+D:\Mina\POS_\obj\Debug\POS_.ReportCheckSupplierDetails.resources
+D:\Mina\POS_\obj\Debug\POS_.REP.ReportItemDetails.resources
+D:\Mina\POS_\obj\Debug\POS_.REP.ReportInvoiceDetailsPrintToCustomer.resources
+D:\Mina\POS_\obj\Debug\POS_.REP.ReportInvoiceDetailsPrintToBranch.resources
+D:\Mina\POS_\obj\Debug\POS_.REP.ReportPrintPurchaseDetailsToSupplier.resources
+D:\Mina\POS_\obj\Debug\POS_.REP.ReportOrderReturnDetails.resources
+D:\Mina\POS_\obj\Debug\POS_.REP.ReportPrintPurchaseDetailsToBranch.resources
+D:\Mina\POS_\obj\Debug\POS_.REP.ReportSupplierPurchaseReturnDetails.resources
+D:\Mina\POS_\obj\Debug\POS_.REP.ReportPurchaseReturnDetailsForBranch.resources
+D:\Mina\POS_\obj\Debug\POS_.REP.ReportDaySammary.resources
+D:\Mina\POS_\obj\Debug\POS_.REP.ReportInvoiceWiseProfitRaduce.resources
+D:\Mina\POS_\obj\Debug\POS_.REP.ReportItemWiseProfit.resources
+D:\Mina\POS_\obj\Debug\POS_.REP.frmWaitForm.resources
+D:\Mina\POS_\obj\Debug\POS_.REP.ReportInvoicePrint.resources
+D:\Mina\POS_\obj\Debug\POS_.REP.ReportInvoiceWiseProfit.resources
+D:\Mina\POS_\obj\Debug\POS_.REP.ReportOrderDetails.resources
+D:\Mina\POS_\obj\Debug\POS_.REP.ReportSupplierPurchaseDetails.resources
+D:\Mina\POS_\obj\Debug\POS_.REP.ReportPurchaseDetailsForBranch.resources
+D:\Mina\POS_\obj\Debug\POS_.REP.ReportCustomerInvoiceDetails.resources
+D:\Mina\POS_\obj\Debug\POS_.ReportCheckCustomerDetails.resources
+D:\Mina\POS_\obj\Debug\POS_.REP.ReportCustomerCredit.resources
+D:\Mina\POS_\obj\Debug\POS_.REP.ReportCustomerLedger.resources
+D:\Mina\POS_\obj\Debug\POS_.REP.ReportInvoiceDetails.resources
+D:\Mina\POS_\obj\Debug\POS_.REP.ReportStockWithAmountItemDetails.resources
+D:\Mina\POS_\obj\Debug\POS_.REP.ReportStockWithAmount.resources
+D:\Mina\POS_\obj\Debug\POS_.REP.ReportItemFullDetails.resources
+D:\Mina\POS_\obj\Debug\POS_.REP.ReportsStockSummary.resources
+D:\Mina\POS_\obj\Debug\POS_.REP.ReportStockSummaryAllBranch.resources
+D:\Mina\POS_\obj\Debug\POS_.csproj.GenerateResource.Cache
+D:\Mina\POS_\obj\Debug\RdlCompile.cache
+D:\Mina\POS_\obj\Debug\RdlCompile.compiled
+D:\mina version3\suka\POS_\bin\Debug\POS_.exe.config
+D:\mina version3\suka\POS_\obj\Debug\POS_.exe
+D:\mina version3\suka\POS_\obj\Debug\POS_.pdb
+C:\Users\Rj_Sathusan\Downloads\Ming New System\Ming New System\POS_\obj\Debug\POS_.exe
+C:\Users\Rj_Sathusan\Downloads\Ming New System\Ming New System\POS_\obj\Debug\POS_.pdb
